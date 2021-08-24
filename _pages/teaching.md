@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ### Instructor
+- Econ 490: Local Public Finance (_Fall 2021_)
 - Econ 440: Economics of Labor Markets (_Fall 2020_)
 
 ### Teaching Assistant
