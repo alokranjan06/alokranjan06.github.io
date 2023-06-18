@@ -129,7 +129,7 @@ hr {
 
 <br>
 
-#### Instructor
+#### Instructor (University of Illinois)
 <hr>
 <p class="ex1" align="justify"> <b>Econ 490 - Local Public Finance</b>: Fall 2021, Spring 2022 <br>
 
@@ -153,7 +153,7 @@ hr {
  
  <br>
  
-#### Teaching Assistant 
+#### Teaching Assistant (University of Illinois)
 <hr>
 
 <p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> : <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> </p>
@@ -183,4 +183,8 @@ during office hours. Was willing to change things to make the course more helpfu
 set of office hour time from Wednesday to Friday because it made it much easier for us to come to him
 with questions about our assignments which were given to us on Wednesday. Absolutely loved everything
 about the class no complaints </em> </p>
+
+<p class="ex2" align="justify" <em> Super patient and responsible - Passionate toward teaching and the field - his approachable
+and friendly personality make students easier to ask questions - Ability to give clear and logical response
+related to the course </em> </p>
 
