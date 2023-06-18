@@ -5,6 +5,10 @@ permalink: /teaching/
 ---
 
 <style>
+   p.ex1 {
+     max-width: 500px;
+    }
+   
    html * {
         font-family: Cambria,Georgia,serif; 
       }
