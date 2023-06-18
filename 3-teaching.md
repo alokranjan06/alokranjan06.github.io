@@ -127,8 +127,10 @@ hr {
 #### Instructor
 <hr>
 <p class="ex1" align="justify"> <b>Econ 490 - Local Public Finance</b>: Fall 2021, Spring 2022 <br> </p>
+<p style="font-size:13px" align="justify"> Course description here!</p>
 
 <p class="ex1" align="justify"> <b>Econ 440 - Economics of Labor Markets </b>: Fall 2020 <br> </p>
+<p style="font-size:13px" align="justify"> Course description here!</p>
 
  <br>
  
