@@ -176,12 +176,12 @@ hr {
 
 #### Select comments by students
 <hr>
-<p class="ex2" align="justify"> <em>The instructor always pushed the students to do their best, and communicated his ideas in a very efficient
+<p class="ex2" > <em>The instructor always pushed the students to do their best, and communicated his ideas in a very efficient
 and effective manner. One of the few courses I’ve taken where the instructor is actually passionate about
 the subject matter and I feel that really helped my understanding of the material and increased the effort
 I put into the class </em> </p>
 
-<p class="ex2" align="justify"> <em> Very enthusiastic teaching absolutely loved the way he taught the class. Always had an example to put
+<p class="ex2"> <em> Very enthusiastic teaching absolutely loved the way he taught the class. Always had an example to put
 something into context to make it easier to understand. Was always available to help was extremely helpful
 during office hours. Was willing to change things to make the course more helpful such as moving one
 set of office hour time from Wednesday to Friday because it made it much easier for us to come to him
