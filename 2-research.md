@@ -203,7 +203,7 @@ table td {
 #### Job Market Paper
 <hr>
 <p class="ex1" align="justify"> <b>JMP title</b> <br>
-<a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
+<a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none"> Manuscript <i class="fa fa-file"></i></a>
  
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
  
@@ -224,7 +224,7 @@ table td {
 
 <p class="ex1" align="justify"> 
    <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Revise & Resubmit, Australian Journal of Agricultural and Resource Economics (AJARE) </em> <br>
-   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> <i class="fa fa-file-pdf-o"></i></a> </p>
+   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> <i class="fa fa-file"></i></a> </p>
    
  <br>   
 
@@ -242,7 +242,7 @@ table td {
 
 <p class="ex1" align="justify"> 
    <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Open Agriculture</em>, 2018. <br>
-   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> <i class="fa fa-file-pdf-o"></i></a> </p>
+   <a class="button-1" role="button" href="https://www.degruyter.com/document/doi/10.1515/opag-2018-0069/html" target="_blank" style="line-height:35px; text-decoration: none"> Paper <i class="fa fa-file"></i></a> </p>
    
    
    
