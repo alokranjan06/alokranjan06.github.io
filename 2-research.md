@@ -214,15 +214,12 @@ table td {
  
 <p class="ex1" align="justify"> <b>Paper Title </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) </p>
  
-<br> 
- 
 ### Selected Work in Progress
 
 <p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences (dummy change) </b> </p>
  
  <p class="ex1" align="justify"> <b> Paper 3 </b> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Ann Kyriazis </a>) </p>
 
-<br>
 
 ### Referred Publications
 
