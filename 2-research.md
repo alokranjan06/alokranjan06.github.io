@@ -202,14 +202,14 @@ table td {
 
 #### Job Market Paper
 <hr>
-<p class="ex1" align="justify"> <b>JMP title</b> <br>
+<p class="ex1" align="justify"> <b>Coming Soon</b> <br>
 <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none"> Manuscript <i class="fa fa-file"></i></a>
  
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
  
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify"> Details of the abstract here!.</p>
+   <p style="font-size:13px" align="justify"> Coming soon...</p>
   </div>
  </div> </p>
  
