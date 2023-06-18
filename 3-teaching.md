@@ -113,23 +113,20 @@ a:hover {
 ### Teaching Experience
 
 #### Instructor
-<p class="ex1" align="justify"> <b>Econ 490 - Local Public Finance</b> (Instructor): Fall 2021, Spring 2022 <br> </p>
+<p class="ex1" align="justify"> <b>Econ 490 - Local Public Finance</b>: Fall 2021, Spring 2022 <br> </p>
 
+<p class="ex1" align="justify"> <b>Econ 440 - Economics of Labor Markets </b>: Fall 2020 <br> </p>
 
-<p class="ex1" align="justify"> <b>Econ 440 - Economics of Labor Markets </b> (Instructor): Fall 2020 <br> </p>
-
- 
-
+ <br>
 #### Teaching Assistant 
-<p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> (Teaching Assistant): <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> </p>
+<p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> : <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> </p>
 
-<p class="ex1" align="justify"> <b>Econ 103 - Principles of Macroeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2018</font> </p>
+<p class="ex1" align="justify"> <b>Econ 103 - Principles of Macroeconomics</b>: <font style="font-size:14px">Fall 2018</font> </p>
 
 <br>
 
 
-### Teaching 
-<p class="ex1" align="justify"> Teachers Ranked as <em>Excellent</em> by their Students: <font style="font-size:14px">Spring 2020 &mdash; Spring 2021</font> </p>
-<p class="ex1" align="justify"> Rated as <em>Outstanding</em> (University-wide Top 10% rating): <font style="font-size:14px">Spring 2018, Spring 2018, Fall 2021</font> </p>
-<p class="ex1" align="justify"> Graduate Teacher Certificate: <font style="font-size:14px">2017</font> </p>
+#### Teaching Awards
+<p class="ex1" align="justify"> Teachers Ranked as <em>Excellent</em> by their Students: <font style="font-size:14px">Spring 2019, Spring 2021</font> </p>
+<p class="ex1" align="justify"> Rated as <em>Outstanding</em> (University-wide Top 10% rating): <font style="font-size:14px">Fall 2019, Fall 2020, Spring 2022</font> </p>
 
