@@ -184,7 +184,7 @@ set of office hour time from Wednesday to Friday because it made it much easier 
 with questions about our assignments which were given to us on Wednesday. Absolutely loved everything
 about the class no complaints </em> </p>
 
-<p class="ex2" align="justify" <em> Super patient and responsible - Passionate toward teaching and the field - his approachable
+<p class="ex2" align="justify"> <em> Super patient and responsible - Passionate toward teaching and the field - his approachable
 and friendly personality make students easier to ask questions - Ability to give clear and logical response
 related to the course </em> </p>
 
