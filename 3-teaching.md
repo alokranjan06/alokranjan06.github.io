@@ -27,7 +27,7 @@ permalink: /teaching/
 }
    
  .button-1 {
-  background-color: #FFFFFF;
+  background-color: #D3D3D3;
   border: 0;
   border-radius: .5rem;
   box-sizing: border-box;
