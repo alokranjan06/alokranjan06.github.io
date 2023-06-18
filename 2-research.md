@@ -209,7 +209,8 @@ table td {
 
 <p class="ex1" align="justify"> <b>Paper Title </b> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> , <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich</a> and <a href="" target="_blank">Yingyi Liu</a>) <br>
  
-
+ <br>
+ 
 <p class="ex1" align="justify"> <b>Paper Title </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) <br>
  
 ### Selected Work in Progress
