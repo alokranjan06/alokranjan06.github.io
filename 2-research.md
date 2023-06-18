@@ -244,7 +244,7 @@ table td {
 <hr>
 
 <p class="ex1" align="justify"> 
-   <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> <br> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Open Agriculture</em>, 2018. <br>
+   <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> <br> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Open Agriculture</em>, 2018; 3: 658–669 <br>
    <a class="button-1" role="button" href="https://www.degruyter.com/document/doi/10.1515/opag-2018-0069/html" target="_blank" style="line-height:35px; text-decoration: none"> Paper <i class="fa fa-file"></i></a> </p>
    
    
