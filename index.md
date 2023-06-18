@@ -23,7 +23,7 @@ layout: home
 }
  </style>
 
-   <img src="" alt="profile" style="width: 340px;" align="right" />
+   <img src="./files/Alok_wb.jpg" alt="profile" style="width: 340px;" align="right" />
 
 <p style="font-size:16px"  align="justify" class="ex1"><br>Welcome!<br/></p>
 
