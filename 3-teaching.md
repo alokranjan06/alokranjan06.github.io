@@ -140,7 +140,13 @@ hr {
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Course Description +</a>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">
-   <p class="ex2" align="justify"> Course Description here! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
+   <p class="ex2" align="justify"> This course focuses on state and local public finance primarily through the lens of applied microeconomics.
+The aim of the course is to provide an understanding of the role of sub-national government in provision of
+public goods and their revenue and expenditure choices under fiscal federalism. This course will introduce
+students to the topics of public choice, demand and provision of government goods with a particular emphasis
+on the structure of revenue instruments of state and local governments including property, sales, income and
+business taxation and their efficiency and equity considerations. The course explores both the theoretical
+framework of local public finance as well as empirical evidence related to these theories. </p>
   </div>
  </div> </p>
 
@@ -150,7 +156,13 @@ hr {
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs2" style="line-height:35px; text-decoration: none">Course Description +</a>
   <div id="abs2" class="collapse">
     <div style="padding-left: 30px;">
-   <p class="ex2" align="justify"> Course Description here! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
+   <p class="ex2" align="justify"> This course is primarily designed for advanced undergraduate students. This course introduces students to
+the field of labor economics. We will cover models and evidence on the supply, demand, and market for
+labor, then topics such as education, immigration, discrimination and unemployment. We will study how
+individuals decide how much to work, how firms decide how much labor to hire, and how these demand and
+supply forces play out in the equilibrium. We will also study how workers decide on education levels, how
+they decide where to locate, and the role of discrimination in labor markets. The course concludes with a
+discussion of labor market institutions and future of work. </p>
   </div>
  </div>  </p>
  
