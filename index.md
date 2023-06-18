@@ -13,7 +13,7 @@ layout: home
  
  a:link, a:visited {
   background-color: white;
-  color: rgb(110, 19, 37);
+  color: #1626a6;
   text-align: center;
   text-decoration: none;
 }
