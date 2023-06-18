@@ -6,7 +6,7 @@ permalink: /research/
 
 <style>
     p.ex1 {
-     max-width: 600px;
+     max-width: 700px;
     }
  
  html * {
@@ -213,7 +213,6 @@ table td {
   </div>
  </div> </p>
  
-<img src="./files/Alok_wb.jpg" alt="profile" style="width: 300px;" align="right" />
 <br> 
 
 #### Working Papers
