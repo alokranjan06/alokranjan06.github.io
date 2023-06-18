@@ -31,11 +31,12 @@ layout: home
 
 
 <p style="font-size:16px"  align="justify" class="ex1">
-I am a PhD Candidate in the <a target="_blank" rel="noopener noreferrer" href="https://economics.illinois.edu/"> Department of Economics </a> at the <a target="_blank" rel="noopener noreferrer" href="https://illinois.edu/"> University of Illinois Urbana-Champaign. </a> I hold a BS and MS in Economics from the <a target="_blank" rel="noopener noreferrer" href="https://www.iitk.ac.in/"> Indian Institute of Technology Kanpur.</a> My research interest lies in State and Local Public Finance, Political Economy and Labor Economics. </p> 
+I am a PhD Candidate in the <a target="_blank" rel="noopener noreferrer" href="https://economics.illinois.edu/"> Department of Economics </a> at the <a target="_blank" rel="noopener noreferrer" href="https://illinois.edu/"> University of Illinois Urbana-Champaign. </a> I hold a BS and MS in Economics from the <a target="_blank" rel="noopener noreferrer" href="https://www.iitk.ac.in/"> Indian Institute of Technology Kanpur.</a> My research interest lies in State and Local Public Finance, Political Economy and Labor Economics.
  
  <br> 
+ <br> 
 
-<p style="font-size:16px"  align="justify" class="ex1"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
 
 <br/>
 
