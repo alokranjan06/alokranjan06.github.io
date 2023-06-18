@@ -144,7 +144,7 @@ hr {
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify"> Course Description here!</p>
   </div>
- </div> 
+ </div>  </p>
  
  <br>
  
@@ -172,7 +172,7 @@ and effective manner. One of the few courses I’ve taken where the instructor i
 the subject matter and I feel that really helped my understanding of the material and increased the effort
 I put into the class </em> </p>
 
-<p align="justify"> <em> Very enthusiastic teaching absolutely loved the way he taught the class. Always had an example to put
+<p class="ex1" align="justify"> <em> Very enthusiastic teaching absolutely loved the way he taught the class. Always had an example to put
 something into context to make it easier to understand. Was always available to help was extremely helpful
 during office hours. Was willing to change things to make the course more helpful such as moving one
 set of office hour time from Wednesday to Friday because it made it much easier for us to come to him
