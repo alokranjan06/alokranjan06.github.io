@@ -50,7 +50,6 @@ permalink: /teaching/
 }
 
 .button-1:hover {
-  /* background-color: rgb(87,117,153);*/
   background-color: rgb(14, 52, 150);
   color: white;
 }
@@ -103,7 +102,7 @@ tbody.collapse.in{
    
  a:link, a:visited {
   background-color: white;
-  color: rgb(50, 101, 230);
+  color: rgb(14, 52, 150);
   text-align: center;
   text-decoration: none;
 }
@@ -119,7 +118,7 @@ hr {
     margin-top:-0.8em
    }
  p.ex2 {
-    max-width: 550px;
+    max-width: 600px;
     font-size:13px;
     } 
  
