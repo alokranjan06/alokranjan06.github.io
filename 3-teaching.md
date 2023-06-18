@@ -15,7 +15,7 @@ permalink: /teaching/
    
    .button {
      border: none;
-     color: rgb(87,117,153);
+     color: #FFFFFF;
      padding: 8px 32px;
      text-align: center;
      text-decoration: none;
@@ -27,11 +27,11 @@ permalink: /teaching/
 }
    
  .button-1 {
-  background-color: rgb(87,117,153);
+  background-color: #FFFFFF;
   border: 0;
   border-radius: .5rem;
   box-sizing: border-box;
-  color: #86152c;
+  color: #1626a6;
   font-family: Cambria,Georgia,serif;
   font-size: .75rem;
   font-weight: 600;
