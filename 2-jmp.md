@@ -1,5 +1,5 @@
 ---
 layout: page
-title: CV
+title: Job Market Paper
 permalink: /files/jmp.pdf
 ---
