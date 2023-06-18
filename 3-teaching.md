@@ -51,7 +51,7 @@ permalink: /teaching/
 
 .button-1:hover {
   /* background-color: rgb(87,117,153);*/
-  background-color: rgb(134, 21, 44);
+  background-color: rgb(14, 52, 150);
   color: white;
 }
 
@@ -103,7 +103,7 @@ tbody.collapse.in{
    
  a:link, a:visited {
   background-color: white;
-  color: rgb(134, 21, 44);
+  color: rgb(50, 101, 230);
   text-align: center;
   text-decoration: none;
 }
