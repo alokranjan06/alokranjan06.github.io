@@ -119,7 +119,7 @@ a:hover {
 <br>
 
 #### Instructor
-<hr style="width:60%;text-align:justify;margin-left:0">
+<hr style="width:60%;text-align:justify;margin-left:0; margin-top:-1em">
 <p class="ex1" align="justify"> <b>Econ 490 - Local Public Finance</b>: Fall 2021, Spring 2022 <br> </p>
 
 <p class="ex1" align="justify"> <b>Econ 440 - Economics of Labor Markets </b>: Fall 2020 <br> </p>
@@ -136,14 +136,14 @@ a:hover {
 
 
 #### Teaching Awards
-<hr style="width:60%;text-align:justify;margin-left:0">
+<hr style="width:60%;text-align:justify;margin-left:0; margin-top:-1em">
 <p class="ex1" align="justify"> Teachers Ranked as <em>Excellent</em> by their Students: <font style="font-size:14px">Spring 2019, Spring 2021</font> </p>
 <p class="ex1" align="justify"> Rated as <em>Outstanding</em> (University-wide Top 10% rating): <font style="font-size:14px">Fall 2019, Fall 2020, Spring 2022</font> </p>
 
 <br>
 
 #### Select comments by students
-<hr style="width:60%;text-align:justify;margin-left:0">
+<hr style="width:60%;text-align:justify;margin-left:0; margin-top:-1em">
 <p class="ex1" align="justify"> <em>The instructor always pushed the students to do their best, and communicated his ideas in a very efficient
 and effective manner. One of the few courses I’ve taken where the instructor is actually passionate about
 the subject matter and I feel that really helped my understanding of the material and increased the effort
