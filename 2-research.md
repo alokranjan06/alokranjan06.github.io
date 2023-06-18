@@ -203,7 +203,7 @@ table td {
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify"> Details of the abstract here!.</p>
   </div>
- </div>
+ </div> </p>
 
 <br> 
 
@@ -218,7 +218,7 @@ table td {
  
 ### Selected Work in Progress
 
-<p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences</b> </p>
+<p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences (dummy change) </b> </p>
  
  <p class="ex1" align="justify"> <b> Paper 3 </b> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Ann Kyriazis </a>) </p>
 
