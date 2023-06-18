@@ -6,7 +6,7 @@ permalink: /research/
 
 <style>
     p.ex1 {
-     max-width: 700px;
+     max-width: 800px;
     }
  
  html * {
