@@ -1,24 +1,52 @@
-{% include base_path %}
+<footer class="site-footer">
 
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-    {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
-</div>
+  <div class="wrapper">
+  <!--<h2 class="footer-heading">{{ site.title | escape }}</h2>-->
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% endif %}
+          </li>
+          <li>
+            <font size="3">{{ site.title }}</font>
+          </li>
+          <li>
+            <p><font size="2.5">PhD Candidate<br><a target="_blank" rel="noopener noreferrer" href="https://illinois.edu/">Urban Economics Lab</a><br><a target="_blank" rel="noopener noreferrer" href="https://illinois.edu/">Department of Economics</a><br><a target="_blank" rel="noopener noreferrer" href="https://illinois.edu/">University of Illinois</a></font></p>
+          </li>
+        </ul>
+      </div>
+      
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          <font size="2.5">Other links</font> <br  />
+          {% if site.scholar_username %}<a href="https://scholar.google.com.br/citations?user={{ site.scholar_username }}"><span class="icon"><i class="ai ai-google-scholar-square" style="font-size:30px;color:rgb(134, 21, 44)"></i></span></a>{% endif %}
+          {% if site.orcid_username %}<a href="https://orcid.org/{{ site.orcid_username }}"><span class="icon"><i class="ai ai-orcid-square" style="font-size:30px;color:rgb(134, 21, 44)"></i></span></a>{% endif %}
+          {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}"><span class="icon"><i class="fa fa-github-square" style="font-size:30px;color:rgb(134, 21, 44)"></i></span></a>{% endif %}
+          {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}"><span class="icon"><i class="fa fa-twitter-square" style="font-size:30px;color:rgb(134, 21, 44)"></i></span></a>{% endif %}
+        </ul>
+      </div>
+      
+      
+      <div class="footer-col footer-col-3">
+        <ul class="contact-list">
+            <font size="2.5">Contact</font> <br >
+           <li>
+              <font size="2.5"><a href="mailto:{{ site.email }}"><i class="fa fa-envelope"></i> {{ site.email }}</a></font> 
+           </li>
+          <li>
+            <p><font size="2.5"><i class="fa fa-map-marker"></i> 214 David Kinley Hall <br> W Gregory Drive <br>Urbana, IL 61801. United States</font></p>
+          </li>
+        </ul>
+      </div>
+      
+     
+    </div>
+
+  </div>
+
+</footer>
+
