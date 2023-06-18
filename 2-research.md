@@ -207,28 +207,10 @@ table td {
 
 ### Working Papers
 
-<p class="ex1" align="justify"> <b>Paper Title </b>   <br> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> , <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich</a> and <a href="" target="_blank">Yingyi Liu</a>) <br>
+<p class="ex1" align="justify"> <b>Paper Title </b> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> , <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich</a> and <a href="" target="_blank">Yingyi Liu</a>) <br>
  
-<a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
- <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
- <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
-  <div id="abs4" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">Abstract</div>
- </div></p>
 
-
-<p class="ex1" align="justify"> <b>Paper Title </b>   <br> (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="" target="_blank"> Rebecca Thornton </a>) 
- 
- <br>
- 
-<a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
- <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
- <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
-  <div id="abs4" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">Abstract</div>
- </div></p>
+<p class="ex1" align="justify"> <b>Paper Title </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) <br>
  
 ### Selected Work in Progress
 
