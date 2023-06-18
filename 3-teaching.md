@@ -15,7 +15,7 @@ permalink: /teaching/
    
    .button {
      border: none;
-     color: #D3D3D3;
+     color: #F8F8F8;
      padding: 8px 32px;
      text-align: center;
      text-decoration: none;
@@ -27,7 +27,7 @@ permalink: /teaching/
 }
    
  .button-1 {
-  background-color: #D3D3D3;
+  background-color: #F8F8F8;
   border: 0;
   border-radius: .5rem;
   box-sizing: border-box;
@@ -125,7 +125,7 @@ hr {
  
 </style>
 
-### Teaching Experience
+## Teaching Experience
 
 <br>
 
