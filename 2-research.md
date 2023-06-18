@@ -218,12 +218,15 @@ table td {
 #### Working Papers
 <hr>
 
-<p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a>, <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) </p>
+<p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> <br>
+    (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a>, <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) </p>
  
-<p class="ex1" align="justify"> <b> Labor Market Effects of the ACA Breastfeeding Provisions </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) </p>
+<p class="ex1" align="justify"> <b> Labor Market Effects of the ACA Breastfeeding Provisions </b> <br>
+    (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) </p>
 
 <p class="ex1" align="justify"> 
-   <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Revise & Resubmit, Australian Journal of Agricultural and Resource Economics (AJARE) </em> <br>
+   <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> <br>
+    (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Revise & Resubmit, Australian Journal of Agricultural and Resource Economics (AJARE) </em> <br>
    <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> <i class="fa fa-file"></i></a> </p>
    
  <br>   
@@ -233,7 +236,7 @@ table td {
 
 <p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences  </b> </p>
  
- <p class="ex1" align="justify"> <b> Fiscal Externalities of State Legislation: Case of Marijuana Legalization </b> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Ann Kyriazis </a>) </p>
+ <p class="ex1" align="justify"> <b> Fiscal Externalities of State Legislation: Case of Marijuana Legalization </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Ann Kyriazis </a>) </p>
 
 <br> 
 
@@ -241,7 +244,7 @@ table td {
 <hr>
 
 <p class="ex1" align="justify"> 
-   <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Open Agriculture</em>, 2018. <br>
+   <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> <br> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Open Agriculture</em>, 2018. <br>
    <a class="button-1" role="button" href="https://www.degruyter.com/document/doi/10.1515/opag-2018-0069/html" target="_blank" style="line-height:35px; text-decoration: none"> Paper <i class="fa fa-file"></i></a> </p>
    
    
