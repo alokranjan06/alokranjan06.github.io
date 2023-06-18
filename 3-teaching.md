@@ -128,7 +128,7 @@ hr {
 <hr>
 <p class="ex1" align="justify"> <b>Econ 490 - Local Public Finance</b>: Fall 2021, Spring 2022 <br>
 
-<a class="button-1" role="button" href="/files/syllabus_490.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file-pdf-o"></i></a>
+<a class="button-1" role="button" href="/files/syllabus_490.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Course Description +</a>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">
@@ -138,7 +138,7 @@ hr {
 
 <p class="ex1" align="justify"> <b>Econ 440 - Economics of Labor Markets </b>: Fall 2020 <br>
     
-<a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file-pdf-o"></i></a>
+<a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs2" style="line-height:35px; text-decoration: none">Course Description +</a>
   <div id="abs2" class="collapse">
     <div style="padding-left: 30px;">
