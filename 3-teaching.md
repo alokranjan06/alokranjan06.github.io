@@ -156,7 +156,8 @@ hr {
 #### Teaching Assistant (University of Illinois)
 <hr>
 
-<p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> : <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> </p>
+<p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> : <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> <br> 
+    <em> (For Prof. Eric McDermott </em> and <em> Prof. Ramses Armendariaz) </em>  </p>
 
 <p class="ex1" align="justify"> <b>Econ 103 - Macroeconomic Principles</b>: <font style="font-size:14px">Fall 2018</font> <br> 
     <em> (For Prof. Eric McDermott) </em> </p>
