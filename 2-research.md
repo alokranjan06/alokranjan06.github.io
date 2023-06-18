@@ -192,7 +192,7 @@ table td {
 
 
 
-### Job Market Paper
+## Job Market Paper
 
 <p class="ex1" align="justify"> <b>JMP title</b> <br>
 <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
@@ -206,20 +206,26 @@ table td {
  </div> </p>
 
 
-### Working Papers
+## Working Papers
 
-<p class="ex1" align="justify"> <b>Paper Title </b> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> , <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) </p>
+<p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> , <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) </p>
  
-<p class="ex1" align="justify"> <b>Paper Title </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) </p>
+<p class="ex1" align="justify"> <b> Labor Market Effects of the ACA Breastfeeding Provisions </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) </p>
+
+<p class="ex1" align="justify"> 
+   <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Revise \& Resubmit, Australian Journal of Agricultural and Resource Economics (AJARE) </em> <br>
+   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> <i class="fa fa-file-pdf-o"></i></a> </p>
+   
+   
+
+## Selected Work in Progress
+
+<p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences  </b> </p>
  
-### Selected Work in Progress
-
-<p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences (dummy change 3.0) </b> </p>
- 
- <p class="ex1" align="justify"> <b> Paper 3 </b> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Ann Kyriazis </a>) </p>
+ <p class="ex1" align="justify"> <b> Fiscal Externalities of State Legislation: Case of Marijuana Legalization </b> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Ann Kyriazis </a>) </p>
 
 
-### Referred Publications
+## Referred Publications
 
 <p class="ex1" align="justify"> 
    <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Open Agriculture</em>, 2018. <br>
