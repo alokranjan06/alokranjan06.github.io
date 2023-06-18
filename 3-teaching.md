@@ -127,7 +127,7 @@ a:hover {
  <br>
  
 #### Teaching Assistant 
-<hr style="width:60%;text-align:justify;margin-left:0">
+<hr style="width:60%;text-align:justify;margin-left:0; margin-top:-1em">
 <p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> : <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> </p>
 
 <p class="ex1" align="justify"> <b>Econ 103 - Principles of Macroeconomics</b>: <font style="font-size:14px">Fall 2018</font> </p>
