@@ -16,6 +16,11 @@ $content-width:    1000px;
     color: #828282;
 }
 
+.site-footer a {
+    color: #ffffff; /* For a elements, Change to the color you want, here it's white */
+}
+
+
 .footer-col {
     flex-basis: 32%;       /* Set the width of each column to 32% */
     flex-grow: 1;          /* Allow the columns to grow to fill the available space */
