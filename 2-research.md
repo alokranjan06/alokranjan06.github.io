@@ -66,8 +66,7 @@ permalink: /research/
 }
 
 .button-1:hover {
-  /* background-color: rgb(31, 64, 113);*/
-  background-color: rgb(134, 21, 44);
+  background-color: rgb(14, 52, 150);
   color: white;
 }
 
