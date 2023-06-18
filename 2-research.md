@@ -215,8 +215,6 @@ table td {
 
 </p>
  
- <br>
- 
 ### Selected Work in Progress
 
 <p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences</b> </p>
@@ -231,7 +229,7 @@ table td {
 ### Referred Publications
 
 <p class="ex1" align="justify"> 
-   <b> Work 3</b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br>
+   <b> Work 3</b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Open Agriculture</em>, 2018. <br>
    <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> <i class="fa fa-file-pdf-o"></i></a> </p>
    
    
