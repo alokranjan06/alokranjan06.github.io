@@ -96,7 +96,7 @@ tbody.collapse.in{
 }
    
  p.ex1 {
-  padding-top: 0.5em;
+  padding-top: 0em;
   padding-bottom: 0em;
   font-size:14px;
 }
@@ -116,7 +116,7 @@ hr {
     width:60%;
     text-align:justify;
     margin-left:0;
-    margin-top:-1em
+    margin-top:-0.8em
    }
 </style>
 
