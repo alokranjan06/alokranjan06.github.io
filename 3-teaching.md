@@ -15,12 +15,12 @@ permalink: /teaching/
    
    .button {
      border: none;
-     color: white;
+     color: #D3D3D3;
      padding: 8px 32px;
      text-align: center;
      text-decoration: none;
      display: inline-block;
-     font-size: 16px;
+     font-size: 14px;
      margin: 0px 0px;
      transition-duration: 0.4s;
      cursor: pointer;
