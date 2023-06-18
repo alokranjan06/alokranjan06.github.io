@@ -198,38 +198,31 @@ table td {
 <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
  
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
+ 
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify"> Details of the abstract here!.</p>
   </div>
- </div></p>
+ </div>
 
 
 ### Working Papers
 
-<p class="ex1" align="justify"> <b>Paper Title </b> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> , <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich</a> and <a href="" target="_blank">Yingyi Liu</a>) <br>
+<p class="ex1" align="justify"> <b>Paper Title </b> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> , <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich</a> and <a href="" target="_blank">Yingyi Liu</a>)
  
- <br>
- 
-<p class="ex1" align="justify"> <b>Paper Title </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) 
-
-</p>
+<p class="ex1" align="justify"> <b>Paper Title </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) </p>
  
 ### Selected Work in Progress
 
 <p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences</b> </p>
  
- <br>
- 
- <p class="ex1" align="justify"> <b> Paper 3 </b> </p> (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="" target="_blank"> Rebecca Thornton </a>) 
- 
-</p>
+ <p class="ex1" align="justify"> <b> Paper 3 </b> </p> (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="" target="_blank"> Rebecca Thornton </a>) </p>
 
 
 ### Referred Publications
 
 <p class="ex1" align="justify"> 
-   <b> Work 3</b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Open Agriculture</em>, 2018. <br>
+   <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Open Agriculture</em>, 2018. <br>
    <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> <i class="fa fa-file-pdf-o"></i></a> </p>
    
    
