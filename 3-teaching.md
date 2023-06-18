@@ -112,15 +112,15 @@ a:hover {
 
 ### Teaching Experience
 
-#### University of Illinois at Urbana-Champaign
+#### Instructor
+<p class="ex1" align="justify"> <b>Econ 490 - Local Public Finance</b> (Instructor): Fall 2021, Spring 2022 <br> </p>
 
-<p class="ex1" align="justify"> <b>Econ 490 - Local Public Finance</b> (Instructor): Fall 2021, Spring 2022<br> <a class="button-1" role="button" href="/files/Econ_490_International_Trade___Syllabus.pdf" target="_blank" style="line-height:35px; text-decoration: none">Course Syllabus (Spring 2020) <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Course Description +</button>
-  <div id="abs5" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">Course description</div>
- </div></p>
+
+<p class="ex1" align="justify"> <b>Econ 440 - Economics of Labor Markets </b> (Instructor): Fall 2020 <br> </p>
+
  
- 
+
+#### Teaching Assistant 
 <p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> (Teaching Assistant): <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> </p>
 
 <p class="ex1" align="justify"> <b>Econ 103 - Principles of Macroeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2018</font> </p>
