@@ -22,7 +22,7 @@ layout: home
    text-decoration:underline;
 }
  img {
-  border-radius: 50%;
+  border-radius: 80%;
 }
  
  </style>
