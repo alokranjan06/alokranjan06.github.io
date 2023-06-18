@@ -219,15 +219,19 @@ table td {
 <hr>
 
 <p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> <br>
-    (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a>, <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) </p>
+    (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a>, <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) 
+ <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file"></i></a> 
+</p>
  
 <p class="ex1" align="justify"> <b> Labor Market Effects of the ACA Breastfeeding Provisions </b> <br>
-    (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) </p>
+    (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) 
+ <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file"></i></a> 
+</p>
 
 <p class="ex1" align="justify"> 
-   <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> <br>
+   <b> Nonlinear effects of heat stress on milk yield in California: An econometric analysis </b> <br>
     (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Revise & Resubmit, Australian Journal of Agricultural and Resource Economics (AJARE) </em> <br>
-   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> <i class="fa fa-file"></i></a> </p>
+   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file"></i></a> </p>
    
  <br>   
 
