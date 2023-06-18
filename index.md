@@ -4,7 +4,7 @@ layout: home
 
  <style>
    p.ex1 {
-     max-width: 600px;
+     max-width: 500px;
     }
  
  html * {
@@ -23,7 +23,7 @@ layout: home
 }
  </style>
 
-   <img src="./files/Alok_wb.jpg" alt="profile" style="width: 360px;" align="right" />
+   <img src="./files/Alok_wb.jpg" alt="profile" style="width: 400px;" align="right" />
 
 
 <p style="font-size:16px"  align="justify" class="ex1">
