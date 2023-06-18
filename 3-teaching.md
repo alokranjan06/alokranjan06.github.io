@@ -15,7 +15,7 @@ permalink: /teaching/
    
    .button {
      border: none;
-     color: #F8F8F8;
+     color: #CDDAE4;
      padding: 8px 32px;
      text-align: center;
      text-decoration: none;
@@ -27,7 +27,7 @@ permalink: /teaching/
 }
    
  .button-1 {
-  background-color: #F8F8F8;
+  background-color: #CDDAE4;
   border: 0;
   border-radius: .5rem;
   box-sizing: border-box;
