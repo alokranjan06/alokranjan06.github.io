@@ -1,0 +1,36 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$content-width:    1000px;
+
+@import "minima",
+        "minima/custom-styles"     // Hook to override existing styles.
+  ;
+
+
+.footer-col-wrapper {
+    display: flex;         /* Enable Flexbox */
+    justify-content: space-between; /* Distribute the columns evenly across the window */
+    padding: 1rem;         /* Add some padding around the columns */
+}
+
+.footer-col {
+    flex-basis: 32%;       /* Set the width of each column to 32% */
+    flex-grow: 1;          /* Allow the columns to grow to fill the available space */
+    padding: 1rem;         /* Add some padding inside the columns */
+}
+
+.footer-col p, .footer-col li {
+    line-height: 1.4; /* Adjust this value to decrease or increase the space between lines */
+}
+
+@media (max-width: 767px) {
+    .footer-col-wrapper {
+        flex-direction: column; /* Change the direction of Flexbox to stack columns vertically */
+    }
+
+    .footer-col {
+        flex-basis: 100%; /* Set the width of each column to 100% for smaller screens */
+    }
+}
