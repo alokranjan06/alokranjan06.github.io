@@ -145,7 +145,6 @@ hr {
    <p style="font-size:13px" align="justify"> Course Description here!</p>
   </div>
  </div> 
- <a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus 2.0 <i class="fa fa-file"></i></a> </p>
  
  <br>
  
@@ -173,7 +172,7 @@ and effective manner. One of the few courses I’ve taken where the instructor i
 the subject matter and I feel that really helped my understanding of the material and increased the effort
 I put into the class </em> </p>
 
-<p class="ex1" align="justify"> <em> Very enthusiastic teaching absolutely loved the way he taught the class. Always had an example to put
+<p align="justify"> <em> Very enthusiastic teaching absolutely loved the way he taught the class. Always had an example to put
 something into context to make it easier to understand. Was always available to help was extremely helpful
 during office hours. Was willing to change things to make the course more helpful such as moving one
 set of office hour time from Wednesday to Friday because it made it much easier for us to come to him
