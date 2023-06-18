@@ -230,7 +230,7 @@ table td {
 
 <p class="ex1" align="justify"> 
    <b> Nonlinear effects of heat stress on milk yield in California: An econometric analysis </b> <br>
-    (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Revise & Resubmit, Australian Journal of Agricultural and Resource Economics (AJARE) </em> <br>
+    (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Revise & Resubmit, Australian Journal of Agricultural and Resource Economics </em> <br>
    <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file"></i></a> </p>
    
  <br>   
