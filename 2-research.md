@@ -207,7 +207,7 @@ table td {
 
 ### Working Papers
 
-<p class="ex1" align="justify"> <b>Paper Title</b>   <br> <em>Journal name</em>, 2023, 123 (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich</a> and <a href="" target="_blank">Yingyi Liu</a>) <br>
+<p class="ex1" align="justify"> <b>Paper Title </b>   <br> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> , <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich</a> and <a href="" target="_blank">Yingyi Liu</a>) <br>
  
 <a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
  <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
@@ -217,22 +217,33 @@ table td {
    <p style="font-size:13px" align="justify">Abstract</div>
  </div></p>
 
-### Selected Work in Progress
 
-<p class="ex1" align="justify"> <b>Work 2</b> (with <a href="https://vbn.aau.dk/en/persons/147685" target="_blank"> Bence B&#248;je-Kov&#225;cs</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/imueco" target="_blank">Ismir Mulalic</a>, <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>, and <a href="https://en.rockwoolfonden.dk/employees/marie-louise-schultz-nielsen/" target="_blank">Marie Schultz-Nielsen</a>)</p>
+<p class="ex1" align="justify"> <b>Paper Title </b>   <br> (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="" target="_blank"> Rebecca Thornton </a>) 
  
  <br>
-
-
+ 
+<a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
+ <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
+ <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <div id="abs4" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">Abstract</div>
+ </div></p>
+ 
 ### Selected Work in Progress
 
+<p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences</b> </p>
+ 
+ <br>
+ 
+ <p class="ex1" align="justify"> <b> Paper 3 </b> </p> (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="" target="_blank"> Rebecca Thornton </a>) 
 
 
-### Other Publications
+### Referred Publications
 
 <p class="ex1" align="justify"> 
-   <b> Work 3</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br>
-   <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> </p>
+   <b> Work 3</b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br>
+   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> <i class="fa fa-file-pdf-o"></i></a> </p>
    
    
    
