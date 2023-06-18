@@ -144,7 +144,8 @@ hr {
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify"> Course Description here!</p>
   </div>
- </div> </p>
+ </div> 
+ <a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus 2.0 <i class="fa fa-file"></i></a> </p>
  
  <br>
  
