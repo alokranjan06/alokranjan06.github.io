@@ -118,7 +118,7 @@ tbody.collapse.in{
    
  a:link, a:visited {
   background-color: white;
-  color: rgb(134, 21, 44);
+  color: rgb(14, 52, 150);
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
