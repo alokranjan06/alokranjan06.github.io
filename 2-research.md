@@ -187,13 +187,18 @@ table td {
     align-items: center;
 }
  
-    
+ hr {
+    width:60%;
+    text-align:justify;
+    margin-left:0;
+    margin-top:-0.8em
+   }  
  </style>
 
 
 
 #### Job Market Paper
-
+<hr>
 <p class="ex1" align="justify"> <b>JMP title</b> <br>
 <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
  
@@ -208,6 +213,7 @@ table td {
 <br> 
 
 #### Working Papers
+<hr>
 
 <p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a>, <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) </p>
  
@@ -220,6 +226,7 @@ table td {
  <br>   
 
 #### Selected Work in Progress
+<hr>
 
 <p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences  </b> </p>
  
@@ -228,6 +235,7 @@ table td {
 <br> 
 
 #### Refereed Publications
+<hr>
 
 <p class="ex1" align="justify"> 
    <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <br> <em>Open Agriculture</em>, 2018. <br>
