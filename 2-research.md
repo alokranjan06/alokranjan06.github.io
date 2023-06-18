@@ -209,7 +209,8 @@ table td {
    <p style="font-size:13px" align="justify"> Details of the abstract here!.</p>
   </div>
  </div> </p>
-
+ 
+<img src="./files/Alok_wb.jpg" alt="profile" style="width: 300px;" align="right" />
 <br> 
 
 #### Working Papers
