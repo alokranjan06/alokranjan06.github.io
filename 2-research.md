@@ -192,9 +192,9 @@ table td {
 
 
 
-### Working Papers
+### Job Market Paper
 
-<p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) <br>
+<p class="ex1" align="justify"> <b>Job Market Paper</b> <br>
 <a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
 <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank" style="line-height:35px; text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" href="https://www.thecgo.org/research/send-them-back/" target="_blank" style="line-height:35px; text-decoration: none">CGO WP <i class="fa fa-external-link"></i></a>
@@ -202,7 +202,7 @@ table td {
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">Housing is a crucial channel through which migration affects the local economy and wealth distribution. However, most of what we know about the effects of migration on housing is from studies focused on the inflows of immigrants. This paper quantifies the impact of out-migration on local housing empirically. We study one of the largest ethnically motivated migration shocks in US history, the United States' Mexican repatriation of the 1930s. Using a novel automated matching technique to link houses across the 1930 and 1940 Censuses, we show that repatriating Mexicans during the Great Depression significantly affected housing in various dimensions. Employing an instrumental variable approach, we show that Mexican-occupied houses experienced a disproportionately large devaluation of their house values and rents in cities more exposed to the repatriation. Critically, the repatriation mattered for aggregate outcomes in US cities: it decreased building permit growth, the median house value growth, and the median rent growth at the city level. Our results suggest that repatriations have a long-lasting impact, leaving a footprint on the local economy.</p>
+   <p style="font-size:13px" align="justify"> Details of the abstract here!.</p>
   </div>
  </div></p>
 
@@ -217,7 +217,7 @@ table td {
 <br>
 
 
-### Refereed Publications
+### Working Papers
 
 <p class="ex1" align="justify"> <b>Paper Title</b>   <br> <em>Journal name</em>, 2023, 123 (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
 <a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
@@ -278,6 +278,11 @@ year = {2018}
 <p class="ex1" align="justify"> <b>Work 2</b> (with <a href="https://vbn.aau.dk/en/persons/147685" target="_blank"> Bence B&#248;je-Kov&#225;cs</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/imueco" target="_blank">Ismir Mulalic</a>, <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>, and <a href="https://en.rockwoolfonden.dk/employees/marie-louise-schultz-nielsen/" target="_blank">Marie Schultz-Nielsen</a>)</p>
  
  <br>
+
+
+### Selected Work in Progress
+
+
 
 ### Other Publications
 
