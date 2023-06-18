@@ -194,11 +194,9 @@ table td {
 
 ### Job Market Paper
 
-<p class="ex1" align="justify"> <b>Job Market Paper</b> <br>
-<a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
-<a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank" style="line-height:35px; text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>
-<a class="button-1" role="button" href="https://www.thecgo.org/research/send-them-back/" target="_blank" style="line-height:35px; text-decoration: none">CGO WP <i class="fa fa-external-link"></i></a>
-<a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="line-height:35px; text-decoration: none">Coverage: AEA Interview <i class="fa fa-external-link"></i></a>
+<p class="ex1" align="justify"> <b>JMP title</b> <br>
+<a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
+ 
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">
@@ -206,20 +204,11 @@ table td {
   </div>
  </div></p>
 
-<p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) <br>
-<a class="button-1" role="button" href="/files/research/trade_and_wage_inequality.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a> <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4402333" target="_blank" style="line-height:35px; text-decoration: none">MIT CRE WP <i class="fa fa-external-link"></i></a>  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
-  <div id="abs3" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">We study the effect of the bilateral trade integration with China on wage inequality in Brazil. Previous studies have documented the contribution of trade opening to the decline in inequality since the 1990s, driven primarily by cross-firm pay differences. We find a sharper reduction in wage inequality over the 2000s, parallel to China’s accession to the WTO. Our reduced-form analysis of the China shock suggests that some firms are harmed by import competition, while others profit from increased exports and cheaper inputs. We rationalize these patterns by extending the theoretical framework of Helpman et al. (2017) to include sector heterogeneity in trade exposure and firm-level selection into imports. Our calibrated model indicates that the rise of China led to a reduction in cross-firm wage inequality in Brazil since the cross-sectoral effect&mdash;which tends to benefit low-wage sectors and hurt high-wage sectors&mdash;dominates the within-sector increase in inequality due to a rise in importers and exporters.</p>
-   </div>
- </div></p>
- 
-<br>
-
 
 ### Working Papers
 
-<p class="ex1" align="justify"> <b>Paper Title</b>   <br> <em>Journal name</em>, 2023, 123 (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
+<p class="ex1" align="justify"> <b>Paper Title</b>   <br> <em>Journal name</em>, 2023, 123 (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a> <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich</a> and <a href="" target="_blank">Yingyi Liu</a>) <br>
+ 
 <a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
  <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
@@ -227,51 +216,6 @@ table td {
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">Abstract</div>
  </div></p>
-
-<p class="ex1" align="justify"><b>Work 1</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
-<a class="button-1" role="button" href="https://doi.org/10.1111/twec.12654" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
-<a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> 
-<a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="line-height:35px; text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a>
- <a class="button-1" role="button" id="citeButton" style="text-decoration: none"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</a>
- <a class="button-1" role="button" data-toggle="collapse" data-target="#abs5" style="line-height:35px; text-decoration: none">Abstract +</a>
-<div id="citationPopup" class="citation-popup">
-    <div class="citation-content">
-        <div class="header"> 
-         <h4>Citation</h4>
-            <span class="close">&times;</span>
-        </div>
-    <table>
-        <tr>
-            <td>APA</td>
-            <td id="citationText1">Sant’Anna, V. P., & Kannebley Júnior, S. (2018). Port efficiency and Brazilian exports: A quantitative assessment of the impact of turnaround time. <em>The World Economy</em>, 41(9), 2528-2551.
-             <span class="last-line"></span></td>
-            <td><span class="last-line"><i id="copyIcon1" class="fa fa-clipboard" aria-hidden="true" style="cursor:pointer;"></i></span></td>
-        </tr>
-        <tr>
-            <td>BibTex</td>
-            <td id="citationText2">@article{SantAnna2018Port,<br>
-author = {Sant’Anna, Vinicios P and Kannebley J{\'u}nior, S{\'e}rgio},<br>
-title = {Port efficiency and Brazilian exports: A quantitative assessment of the impact of turnaround time},<br>
-journal = {The World Economy},<br>
-volume = {41},<br>
-number = {9},<br>
-pages = {2528-2551}, <br>
-doi = {https://doi.org/10.1111/twec.12654}, <br>
-year = {2018}
-  <span class="last-line">}</span>
-</td>
-            <td><i id="copyIcon2" class="fa fa-clipboard" aria-hidden="true" style="cursor:pointer;"></i></td>
-        </tr>
-    </table>
-    <span id="copyMessage" style="display:none; margin-left: 5px; color: rgb(134, 21, 44);"></span>
-</div>
-</div> 
-  <div id="abs5" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify"> Details like abstract?</div>
- </div></p>
-
-<br>
 
 ### Selected Work in Progress
 
