@@ -21,6 +21,10 @@ layout: home
  a:hover {
    text-decoration:underline;
 }
+ img {
+  border-radius: 50%;
+}
+ 
  </style>
 
    <img src="./files/Alok_wb.jpg" alt="profile" style="width: 400px;" align="right" />
