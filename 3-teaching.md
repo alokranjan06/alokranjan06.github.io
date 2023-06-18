@@ -137,18 +137,15 @@ hr {
  </div> </p>
 
 <p class="ex1" align="justify"> <b>Econ 440 - Economics of Labor Markets </b>: Fall 2020 <br>
-
-  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Course Description +</a>
+    
+<a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file-pdf-o"></i></a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Course Description +</a>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">
-   <p style="font-size:12px" align="justify"> Course Description here! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
+   <p style="font-size:13px" align="justify"> Course Description here! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
   </div>
- </div>
+ </div> </p>
  
-<a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file-pdf-o"></i></a>
-    
- </p>
-
  <br>
  
 #### Teaching Assistant 
