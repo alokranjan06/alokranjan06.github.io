@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Alok Ranjan | Teaching
 permalink: /teaching/
 ---
 
@@ -111,7 +111,8 @@ a:hover {
 </style>
 
 ### Teaching Experience
-<hr>
+
+<br>
 
 #### Instructor
 <hr>
