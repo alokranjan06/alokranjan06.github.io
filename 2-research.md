@@ -211,7 +211,11 @@ table td {
  
  <br>
  
-<p class="ex1" align="justify"> <b>Paper Title </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) <br>
+<p class="ex1" align="justify"> <b>Paper Title </b>  (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) 
+
+</p>
+ 
+ <br>
  
 ### Selected Work in Progress
 
@@ -220,6 +224,8 @@ table td {
  <br>
  
  <p class="ex1" align="justify"> <b> Paper 3 </b> </p> (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="" target="_blank"> Rebecca Thornton </a>) 
+ 
+</p>
 
 
 ### Referred Publications
