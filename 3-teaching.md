@@ -133,7 +133,7 @@ hr {
 
 <br>
 
-#### Instructor (University of Illinois)
+#### Instructor, University of Illinois
 <hr>
 <p class="ex1" align="justify"> <b>Local Public Finance (Econ 490) </b>: Fall 2021, Spring 2022 <br>
 
@@ -150,7 +150,7 @@ hr {
  
  <br>
  
-#### Teaching Assistant (University of Illinois)
+#### Teaching Assistant, University of Illinois
 <hr>
 
 <p class="ex1" align="justify"> <b>Economic Statistics II (Econ 203) </b> : <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> <br> 
