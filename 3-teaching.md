@@ -6,7 +6,7 @@ permalink: /teaching/
 
 <style>
     p.ex1 {
-     max-width: 600px;
+     max-width: 700px;
     }
    
    html * {
