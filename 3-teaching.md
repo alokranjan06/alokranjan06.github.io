@@ -119,7 +119,7 @@ hr {
     margin-top:-0.8em
    }
  p.ex2 {
-    max-width: 550px;
+    max-width: 600px;
     font-size:13px;
     padding-left: 25px;
     } 
