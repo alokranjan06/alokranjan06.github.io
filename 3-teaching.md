@@ -10,7 +10,8 @@ permalink: /teaching/
     }
    
    html * {
-        font-family: Cambria,Georgia,serif; 
+       /* font-family: Cambria,Georgia,serif; */
+       font-family: "Times New Roman", Times, serif;
       }
    
    .button {
