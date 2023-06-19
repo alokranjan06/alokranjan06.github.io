@@ -46,8 +46,7 @@ permalink: /research/
   border-radius: .5rem;
   box-sizing: border-box;
   /*color: #1f4071;*/
-  /*color: rgb(14, 52, 150);*/
-    color: rgb(214, 110, 255);
+  color: rgb(14, 52, 150);
   font-family: Cambria,Georgia,serif; 
   font-size: .75rem;
   font-weight: 600;
