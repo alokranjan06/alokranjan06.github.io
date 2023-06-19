@@ -125,7 +125,7 @@ hr {
     } 
  
 </style>
-
+ <img src="./files/Alok_wb.jpg" alt="some pic" style="width: 200px;" align="right" />
 ## Teaching Experience
 
 <p class="ex1" align="justify"> Teaching Experience and description here! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.. <br>
