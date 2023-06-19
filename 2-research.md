@@ -6,7 +6,7 @@ permalink: /research/
 
 <style>
     p.ex1 {
-     max-width: 800px;
+     max-width: 700px;
     }
  
  html * {
@@ -190,7 +190,7 @@ table td {
 }
  
  hr {
-    width:60%;
+    width:70%;
     text-align:justify;
     margin-left:0;
     margin-top:-0.8em
