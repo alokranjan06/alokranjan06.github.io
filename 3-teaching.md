@@ -121,7 +121,7 @@ hr {
  p.ex2 {
     max-width: 600px;
     font-size:13px;
-    padding-left: 50px;
+    padding-left: 25px;
     } 
  
 </style>
@@ -145,12 +145,8 @@ hr {
 <p class="ex1" align="justify"> <b>Economics of Labor Markets (Econ 440) </b>: Fall 2020 <br>
     
 <a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file"></i></a>
-<a class="button-1" role="button" data-toggle="collapse" data-target="#abs2" style="line-height:35px; text-decoration: none">Course Description +</a>
-  <div id="abs2" class="collapse">
-    <div style="padding-left: 30px;">
-   <p class="ex2" align="justify"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.. </p>
-  </div>
- </div>  </p>
+   <p class="ex2" align="justify"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..test again </p>
+</p>
  
  <br>
  
