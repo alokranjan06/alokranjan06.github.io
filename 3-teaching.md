@@ -10,8 +10,8 @@ permalink: /teaching/
     }
    
    html * {
-       /* font-family: Cambria,Georgia,serif; */
-       font-family: "Times New Roman", Times, serif;
+       font-family: Cambria,Georgia,serif;
+      /* font-family: "Times New Roman", Times, serif;*/
       }
    
    .button {
@@ -134,7 +134,7 @@ hr {
 
 #### Instructor (University of Illinois)
 <hr>
-<p class="ex1" align="justify"> <b>Econ 490 - Local Public Finance</b>: Fall 2021, Spring 2022 <br>
+<p class="ex1" align="justify"> <b>Local Public Finance (Econ 490) </b>: Fall 2021, Spring 2022 <br>
 
 <a class="button-1" role="button" href="/files/syllabus_490.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Course Description +</a>
@@ -144,7 +144,7 @@ hr {
   </div>
  </div> </p>
 
-<p class="ex1" align="justify"> <b>Econ 440 - Economics of Labor Markets </b>: Fall 2020 <br>
+<p class="ex1" align="justify"> <b>Economics of Labor Markets (Econ 440) </b>: Fall 2020 <br>
     
 <a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs2" style="line-height:35px; text-decoration: none">Course Description +</a>
@@ -159,10 +159,10 @@ hr {
 #### Teaching Assistant (University of Illinois)
 <hr>
 
-<p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> : <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> <br> 
+<p class="ex1" align="justify"> <b>Economic Statistics II (Econ 203) </b> : <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> <br> 
     <em> (For Prof. Eric McDermott </em> and <em> Prof. Ramses Armendariaz) </em>  </p>
 
-<p class="ex1" align="justify"> <b>Econ 103 - Macroeconomic Principles</b>: <font style="font-size:14px">Fall 2018</font> <br> 
+<p class="ex1" align="justify"> <b>Macroeconomic Principles (Econ 103) </b>: <font style="font-size:14px">Fall 2018</font> <br> 
     <em> (For Prof. Eric McDermott) </em> </p>
 
 <br>
@@ -170,8 +170,9 @@ hr {
 
 #### Teaching Awards
 <hr>
-<p class="ex1" align="justify"> Teachers Ranked as <em>Excellent</em> by their Students: <font style="font-size:14px">Spring 2019, Spring 2021</font> </p>
-<p class="ex1" align="justify"> Rated as <em>Outstanding</em> (University-wide Top 10% rating): <font style="font-size:14px">Fall 2019, Fall 2020, Spring 2022</font> </p>
+<p class="ex1" align="justify"> Teachers Rated as <em>Outstanding</em> by their students: <font style="font-size:14px">Fall 2019, Fall 2020, Spring 2022</font> </p>
+
+<p class="ex1" align="justify"> Teachers Rated as <em>Excellent</em> by their students: <font style="font-size:14px">Spring 2019, Spring 2021</font> </p>
 
 <br>
 
