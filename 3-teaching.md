@@ -131,8 +131,6 @@ hr {
 <a class="button-1" role="button" href="/files/teaching_statement.pdf" target="_blank" style="line-height:35px; text-decoration: none">Teaching Statement <i class="fa fa-file"></i></a>
 </p>
  
-<br>
-
 #### Instructor, University of Illinois
 <hr>
 <p class="ex1" align="justify"> <b>Local Public Finance (Econ 490) </b>: Fall 2021, Spring 2022 <br>
