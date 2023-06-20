@@ -40,6 +40,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br/>
 
-<p align="center" class="ex1"><font size="3"> <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/jmp"><i class="fa fa-file-pdf-o"></i> Job Market Paper</a> | <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/cv"><i class="fa fa-file"></i> Curriculum vitae</a> | <a href="mailto:alok2@illinois.edu"> <i class="fa fa-envelope"></i> alok2@illinois.edu</a>  </font></p>
+<p align="center" class="ex1"><font size="3"> <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/jmp"><i class="fa fa-file-pdf-o"></i> <b> Job Market Paper </b> </a> | <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/cv"><i class="fa fa-file"></i> Curriculum vitae</a> | <a href="mailto:alok2@illinois.edu"> <i class="fa fa-envelope"></i> alok2@illinois.edu</a>  </font></p>
 
 
