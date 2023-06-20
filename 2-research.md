@@ -5,9 +5,12 @@ permalink: /research/
 ---
 
 <style>
-    p.ex1 {
-     max-width: 800px;
-    }
+   p.ex1 {
+  max-width: 800px;
+  padding-top: 0.5em;
+  padding-bottom: 0em;
+  font-size:14px;
+}
  
  html * {
         font-family: Cambria,Georgia,serif; 
