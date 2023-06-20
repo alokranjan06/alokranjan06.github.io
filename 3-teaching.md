@@ -8,7 +8,7 @@ permalink: /teaching/
 
 p.ex1 {
   max-width: 700px;
-  padding-top: 1em;
+  padding-top: 0.5em;
   padding-bottom: 0em;
   font-size:14px;
 }
@@ -120,6 +120,8 @@ hr {
     max-width: 600px;
     font-size:13px;
     padding-left: 25px;
+    padding-top: 0.5em;
+    padding-bottom: 0em;
     } 
  
 </style>
