@@ -5,11 +5,14 @@ permalink: /teaching/
 ---
 
 <style>
-    p.ex1 {
-    padding-top: 10px;
-     max-width: 700px;
-    }
-   
+
+p.ex1 {
+  max-width: 700px;
+  padding-top: 1em;
+  padding-bottom: 0em;
+  font-size:14px;
+}
+    
    html * {
        font-family: Cambria,Georgia,serif;
       /* font-family: "Times New Roman", Times, serif;*/
@@ -95,13 +98,7 @@ tbody.collapse.in{
   -o-transition-timing-function:ease;
   transition-timing-function:ease
 }
-   
- p.ex1 {
-  padding-top: 0em;
-  padding-bottom: 0em;
-  font-size:14px;
-}
-   
+      
  a:link, a:visited {
   background-color: white;
   color: rgb(14, 52, 150);
