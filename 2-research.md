@@ -216,12 +216,12 @@ table td {
 
 <p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> <br>
     (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a>, <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) <br>
- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file"></i></a> 
+ <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper (coming soon) <i class="fa fa-file"></i></a> 
 </p>
  
 <p class="ex1" align="justify"> <b> The Affordable Care Act, Breastfeeding, and Women’s Labor Market Outcomes </b> <br>
     (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) <br>
- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file"></i></a> 
+ <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper (coming soon) <i class="fa fa-file"></i></a> 
 </p>
 
 <p class="ex1" align="justify"> 
