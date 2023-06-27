@@ -192,6 +192,14 @@ table td {
     margin-left:0;
     margin-top:-0.8em
    }  
+
+    p.ex2 {
+    max-width: 600px;
+    font-size:13px;
+    padding-left: 25px;
+    padding-top: 0.5em;
+    padding-bottom: 0em;
+    } 
  </style>
 
 
@@ -200,14 +208,8 @@ table td {
 <hr>
 <p class="ex1" align="justify"> <b>Coming Soon</b> <br>
 <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none"> Manuscript <i class="fa fa-file"></i></a>
- 
-<a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
- 
-  <div id="abs1" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify"> Coming soon...</p>
-  </div>
- </div> </p>
+<p class="ex2" align="justify" <em> Coming soon.. </em> </p> 
+</p>
  
 <br> 
 
