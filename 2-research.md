@@ -207,9 +207,10 @@ table td {
 #### Job Market Paper
 <hr>
 <p class="ex1" align="justify"> <b>Coming Soon</b> <br>
-<a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none"> Manuscript <i class="fa fa-file"></i></a>
-<p class="ex2" align="justify" <em> Coming soon.. </em> </p> 
-</p>
+<a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none"> Manuscript <i class="fa fa-file"></i></a> </p>
+<br>
+<p class="ex2" align="justify" <em> Abstract: Coming soon.. </em> </p> 
+
  
 <br> 
 
