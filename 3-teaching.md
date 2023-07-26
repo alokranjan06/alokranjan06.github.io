@@ -144,7 +144,7 @@ hr {
 <p class="ex1" align="justify"> <b>Economics of Labor Markets (Econ 440) </b>: Fall 2020 <br>
     
 <a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file"></i></a>
-<p class="ex2" align="justify"> <em> Course description: </em> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..test again </p>
+<p class="ex2" align="justify"> <em> Course description: </em> This course is primarily aimed at advanced undergraduate students and serves as an introduction to the field of labor economics. The curriculum covers various topics, including models and evidence related to labor supply, demand, and market dynamics. Additionally, we will delve into areas such as education, immigration, discrimination, and unemployment. Throughout the course, we will explore how individuals make decisions about their work hours, how firms determine their labor force size, and how these factors interact to establish equilibrium in the labor market. Moreover, we will examine the decision-making processes of workers regarding their education levels and location choices, as well as the role of discrimination in labor markets. The course concludes by discussing labor market institutions and providing insights into the future of work. </p>
 </p>
  
  <br>
