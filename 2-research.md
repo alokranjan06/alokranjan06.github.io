@@ -237,13 +237,15 @@ table td {
 
 <p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences  </b> </p>
  
- <p class="ex1" align="justify"> <b> Fiscal Externalities of State Legislation: Case of Marijuana Legalization </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>) </p>
+ <p class="ex1" align="justify"> <b> Fiscal Spillovers and Public Official Incentives </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a>, <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>, and <a href="https://cameronmilani.github.io/" target="_blank"> Cameron Milani  </a>) </p>
 
+ <p class="ex1" align="justify"> <b> Political Incentives and Criminal Sentencing </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>) </p>
+ 
 <br> 
 
 #### Other Writings
 <hr> 
-<p class="ex1" align="justify"> <b> Technical Report for the US Census Bureau </b> <br>
+<p class="ex1" align="justify"> <b> Sampling and Response Rates for Infants in American Community Survey </b>, <em> Technical Report for the US Census Bureau  </em> <br>
     (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) <br>
  <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Report <i class="fa fa-file"></i></a> 
 </p>
