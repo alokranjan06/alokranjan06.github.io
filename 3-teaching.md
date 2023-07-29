@@ -127,7 +127,7 @@ hr {
 </style>
 ### Teaching Experience
 
-<p class="ex1" align="justify"> Teaching Experience and description here! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.. <br>
+<p class="ex1" align="justify"> In my role as an instructor, I have had the privilege of designing and teaching two specialized courses, Economics of Labor Markets and Local Public Finance, designed for senior undergraduate students pursuing degrees in Economics and Business. As an educator, I believe in fostering a collaborative and inclusive learning environment, encouraging critical thinking and independent inquiry. Furthermore, my experience as a teaching assistant for Principles of Macroeconomics and Econometrics has allowed me to further refine my pedagogical skills and support students in grasping foundational economic concepts and quantitative analysis. I take pride in my adaptability, having successfully conducted both in-person and online teaching, ensuring a seamless educational experience for students in diverse settings.  <br>
 <a class="button-1" role="button" href="/files/teaching_statement.pdf" target="_blank" style="line-height:35px; text-decoration: none">Teaching Statement <i class="fa fa-file"></i></a>
 </p>
  <br> 
