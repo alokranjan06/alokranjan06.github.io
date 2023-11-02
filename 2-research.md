@@ -206,7 +206,7 @@ table td {
 
 #### Job Market Paper
 <hr>
-<p class="ex1" align="justify"> <b>Coming Soon</b> <br>
+<p class="ex1" align="justify"> <b>Jurisdiction size, political participation, and political competition </b> <br>
 <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none"> Manuscript <i class="fa fa-file"></i></a> </p>
 <p class="ex2" align="justify"> <em> Abstract: This paper examines the causal effect of jurisdiction size on political participation, political selection, and political competition. I leverage a quasi-natural experiment that exogenously determined the size of over 50,000 local government units based on population threshold in the Indian state of Uttar Pradesh. Using a regression discontinuity design, I find strong effects of the size of the electorate on voter turnout, with a 10 percent increase in jurisdiction size resulting in a 0.6 percent higher turnout rate in local elections. The quality of contesting candidates and the characteristics of the winners do not vary systematically with jurisdiction size. Additionally, I provide a test of the rational choice model of voting by simulating millions of elections and show that voter turnout increases with an increase in pivotal probabilities.  </em> </p> 
 
