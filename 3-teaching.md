@@ -183,7 +183,20 @@ set of office hour time from Wednesday to Friday because it made it much easier 
 with questions about our assignments which were given to us on Wednesday. Absolutely loved everything
 about the class no complaints </em> </p>
 
-<p class="ex2" align="justify"> <em> Super patient and responsible - Passionate toward teaching and the field - his approachable
-and friendly personality make students easier to ask questions - Ability to give clear and logical response
-related to the course </em> </p>
+<p class="ex2" align="justify"> <em> The instructor did a good job on explaining the course concept and is very easy to approach. He
+is patient and willing to help student achieve learning goals. The assignments he designed are
+well-linked to the learning materials. The questions are not easy but he always encourage students
+to dig deeper. This is one of the best courses I took! </em> </p>
 
+
+<p class="ex2" align="justify"> <em> Super patient and responsible - Passionate toward teaching and the field - his approachable
+and friendly personality make students easier to ask questions - Ability to give clear and logical response related to the course </em> </p>
+
+
+<p class="ex2" align="justify"> <em> The presentations made by the TA were really helpful and organized. He explained the concepts
+in the course really clearly and coherently. I liked that he would use a lot of pictures and examples
+to explain the ideas summarized on the slides. I also appreciated that he made sure that we didn’t have any questions before moving on to a new topic.  </em> </p>
+
+<p class="ex2" align="justify"> <em>  The teacher of this course always took feedback from the students and was very flexible regarding
+what content he focused on. I enjoyed all of the topics that we talked about in class and thought that the powerpoints, quizzes, and homeworks really helped reinforce the concepts we talked about
+in class. I also enjoyed how the professor gave real-life examples of a lot of the theoretical concepts we talked about. I also found all of the outside papers and podcasts he gave us very interesting.  </em> </p>
