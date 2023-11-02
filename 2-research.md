@@ -239,7 +239,7 @@ table td {
  
  <p class="ex1" align="justify"> <b> Fiscal Spillovers and Public Official Incentives </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a>, <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>, and <a href="https://cameronmilani.github.io/" target="_blank"> Cameron Milani  </a>) </p>
 
- <p class="ex1" align="justify"> <b> Political Incentives and Criminal Sentencing </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>) </p>
+ <p class="ex1" align="justify"> <b> Political Accountability, Bureaucracy, and Criminal Justice: Evidence from North Carolina </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>) </p>
  
 <br> 
 
