@@ -214,7 +214,7 @@ table td {
 
 #### Working Papers
 <hr> 
- <p class="ex1" align="justify"> <b> Political Accountability and Criminal Justice: Evidence from North Carolina </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>) 
+ <p class="ex1" align="justify"> <b> Political Accountability and Criminal Justice: Evidence from North Carolina </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>) <br>
  <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper (coming soon) <i class="fa fa-file"></i></a> 
  </p>
  
