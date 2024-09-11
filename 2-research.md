@@ -228,10 +228,7 @@ table td {
  <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper (coming soon) <i class="fa fa-file"></i></a> 
 </p>
 
-<p class="ex1" align="justify"> 
-   <b> Nonlinear effects of heat stress on milk yield in California: An econometric analysis </b> <br>
-    (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Revise & Resubmit, Australian Journal of Agricultural and Resource Economics </em> <br>
-   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file"></i></a> </p>
+
    
  <br>   
 
@@ -253,9 +250,13 @@ table td {
 </p>
 <br> 
 
-#### Refereed Publications
+#### Pre-PhD Work
 <hr>
-
+<p class="ex1" align="justify"> 
+   <b> Nonlinear effects of heat stress on milk yield in California: An econometric analysis </b> <br>
+    (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Revise & Resubmit, Australian Journal of Agricultural and Resource Economics </em> <br>
+   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file"></i></a> </p>
+   
 <p class="ex1" align="justify"> 
    <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> <br> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Open Agriculture</em>, 2018; 3: 658–669 <br>
    <a class="button-1" role="button" href="https://www.degruyter.com/document/doi/10.1515/opag-2018-0069/html" target="_blank" style="line-height:35px; text-decoration: none"> Paper <i class="fa fa-file"></i></a> </p>
