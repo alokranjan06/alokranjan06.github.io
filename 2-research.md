@@ -206,18 +206,14 @@ table td {
 
 #### Job Market Paper
 <hr>
-<p class="ex1" align="justify"> <b> Coming soon.. </b> <br>
+<p class="ex1" align="justify"> <b> Judicial Transparency, Court Costs, and Collections </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>) <br>
 <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none"> Manuscript <i class="fa fa-file"></i></a> </p>
 <p class="ex2" align="justify"> <em> Abstract: Coming soon..  </em> </p> 
 
 <br> 
 
 #### Working Papers
-<hr> 
- <p class="ex1" align="justify"> <b> Political Accountability and Criminal Justice: Evidence from North Carolina </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>) <br>
- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper (coming soon) <i class="fa fa-file"></i></a> 
- </p>
- 
+<hr>
 <p class="ex1" align="justify"> <b> Jurisdiction size, political participation, and political competition </b> <br>
  <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper (coming soon) <i class="fa fa-file"></i></a> 
 </p>
