@@ -215,7 +215,7 @@ table td {
 #### Working Papers
 <hr>
 <p class="ex1" align="justify"> <b> Jurisdiction size, political participation, and political competition </b> <br>
- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper (coming soon) <i class="fa fa-file"></i></a> 
+ <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft available upon request <i class="fa fa-file"></i></a> 
 </p>
 
 <p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> <br>
