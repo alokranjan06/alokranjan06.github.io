@@ -1,5 +1,5 @@
 ---
 layout: page
 title: CV
-permalink: /files/Alok_cv.pdf
+permalink: /files/Alok_CV.pdf
 ---
