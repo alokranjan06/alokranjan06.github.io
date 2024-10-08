@@ -37,7 +37,7 @@ I am a PhD Candidate in the <a target="_blank" rel="noopener noreferrer" href="h
 </p>
 
 <p style="font-size:16px"  align="justify" class="ex1">
-I am on the 2024-2025 Job Market!  
+<b> I am on the 2024-2025 Job Market! </b> 
  <br> 
 </p>
 
