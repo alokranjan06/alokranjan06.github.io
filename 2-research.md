@@ -247,7 +247,8 @@ among defendants.  </em> </p>
  
  <p class="ex1" align="justify"> <b> Fiscal Spillovers and Public Official Incentives </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a>, <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>, and <a href="https://cameronmilani.github.io/" target="_blank"> Cameron Milani  </a>) </p>
 
- 
+ <p class="ex1" align="justify"> <b> "The Heat of the Moment": Temperature's Role in Shaping Classroom Dynamics </b> <br> (with <a href="https://sites.google.com/view/wilfriedadohinzin/home" target="_blank"> Wilfried Adohinzin </a>, <a href="" target="_blank"> Aditi Arvind </a>, and <a href="https://sites.google.com/view/mahounanyedomiffi/bio?authuser=0" target="_blank"> Mahounan Yedomiffi  </a>) </p>
+
 <br> 
 
 #### Other Writings
