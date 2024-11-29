@@ -257,7 +257,7 @@ Elected officials at all levels of governance routinely make decisions that affe
  
 <p class="ex1" align="justify"> <b> The Affordable Care Act, Breastfeeding, and Women’s Labor Market Outcomes </b> <br>
     (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) <br>
- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file"></i></a> 
+ <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file-pdf-o"></i></a> 
    <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" aria-controls="abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs4" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
@@ -294,11 +294,11 @@ The first year of a child’s life is a critical period not only for the child�
 <p class="ex1" align="justify"> 
    <b> Nonlinear effects of heat stress on milk yield in California: An econometric analysis </b> <br>
     (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Revise & Resubmit, Australian Journal of Agricultural and Resource Economics </em> <br>
-   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file"></i></a> </p>
+   <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper <i class="fa fa-file-pdf-o"></i></a> </p>
    
 <p class="ex1" align="justify"> 
    <b> Assessing the linkage between dairy productivity growth and climatic variability: The case of New York State </b> <br> (with <a href="https://home.iitk.ac.in/~deepm/" target="_blank">Deep Mukherjee</a>) <em>Open Agriculture</em>, 2018; 3: 658–669 <br>
-   <a class="button-1" role="button" href="https://www.degruyter.com/document/doi/10.1515/opag-2018-0069/html" target="_blank" style="line-height:35px; text-decoration: none"> Paper <i class="fa fa-file"></i></a> </p>
+   <a class="button-1" role="button" href="https://www.degruyter.com/document/doi/10.1515/opag-2018-0069/html" target="_blank" style="line-height:35px; text-decoration: none"> Paper <i class="fa fa-file-pdf-o"></i></a> </p>
    
    
    
