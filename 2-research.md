@@ -213,7 +213,8 @@ table td {
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">Elected officials at all levels of governance routinely make decisions that affect large populations, often without public scrutiny. This study examines the effect of increased transparency on judicial decision-making by leveraging a legislative reform that mandated public disclosure of court fee waivers. Using a regression discontinuity design, we find that the share of cases with court cost waivers increased by nearly 120%. The effects varied across political districts and re-election timing, indicating that electoral incentives play a significant role in judicial responsiveness. We also find that the effect size decreases with defendant income, suggesting potential targeting of waivers for those with lower ability to pay. Additionally, transparency-induced reductions in monetary obligations led to lower recidivism rates and improved timely compliance among defendants.</p>
   </div>
- </div></p>
+ </div>
+   
 <br> 
 
 #### Working Papers
