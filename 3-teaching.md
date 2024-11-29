@@ -128,7 +128,6 @@ hr {
 ### Teaching Experience
 
 <p class="ex1" align="justify"> In my role as an instructor, I have had the privilege of designing and teaching two specialized courses, Economics of Labor Markets and Local Public Finance, designed for senior undergraduate students pursuing degrees in Economics and Business. My teaching philosophy is anchored in three key principles:: 1) cultivating analytical and critical thinking skills, 2) creating a student-centered and inclusive learning environment, and 3) responsiveness to feedback and continuous improvement. I take pride in my adaptability, having successfully conducted both in-person and online teaching, ensuring a seamless educational experience for students in diverse settings.  <br>
-<a class="button-1" role="button" href="/files/teaching_statement.pdf" target="_blank" style="line-height:35px; text-decoration: none">Teaching Statement <i class="fa fa-file"></i></a>
 </p>
  <br> 
  
@@ -136,14 +135,11 @@ hr {
 <hr>
 <p class="ex1" align="justify"> <b>Local Public Finance (Econ 490) </b>: Fall 2021, Spring 2022 <br>
 
-<a class="button-1" role="button" href="/files/syllabus_490.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file"></i></a>
-
    <p class="ex2" align="justify"> <em> Course description: </em> This course centers on the subject of state and local public finance, primarily viewed through the applied microeconomics approach. Its main objective is to foster comprehension of how sub-national governments play a role in providing public goods. Additionally, the course aims to explore the revenue and expenditure choices made by these governments within the context of fiscal federalism. Through this course, students will be introduced to various topics, including public choice, the demand and provision of government goods, and with special focus on the revenue structures employed by state and local governments. These structures encompass property, sales, income, and business taxation, and are analyzed for their efficiency and equity considerations. Both the theoretical framework of local public finance and the empirical evidence related to these theories will be covered in the course. </p>
   </p>
  
 <p class="ex1" align="justify"> <b>Economics of Labor Markets (Econ 440) </b>: Fall 2020 (Online) <br>
     
-<a class="button-1" role="button" href="/files/syllabus_440.pdf" target="_blank" style="line-height:35px; text-decoration: none">Syllabus <i class="fa fa-file"></i></a>
 <p class="ex2" align="justify"> <em> Course description: </em> This course is primarily aimed at advanced undergraduate students and serves as an introduction to the field of labor economics. The curriculum covers various topics, including models and evidence related to labor supply, demand, and market dynamics. Additionally, we will delve into areas such as education, immigration, discrimination, and unemployment. Throughout the course, we will explore how individuals make decisions about their work hours, how firms determine their labor force size, and how these factors interact to establish equilibrium in the labor market. Moreover, we will examine the decision-making processes of workers regarding their education levels and location choices, as well as the role of discrimination in labor markets. The course concludes by discussing labor market institutions and providing insights into the future of work. </p>
 </p>
  
