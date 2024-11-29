@@ -243,14 +243,14 @@ table td {
 
 <br> 
 
-#### Other Writings
+<!-- #### Other Writings
 <hr> 
 <p class="ex1" align="justify"> <b> Sampling and Response Rates for Infants in American Community Survey </b>, <br> <em> Technical Report for the US Census Bureau  </em> 
     (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) <br>
  <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Report <i class="fa fa-file"></i></a> 
 </p>
 <br> 
-
+--> 
 #### Pre-PhD Work
 <hr>
 <p class="ex1" align="justify"> 
