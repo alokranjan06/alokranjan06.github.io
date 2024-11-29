@@ -222,7 +222,7 @@ table td {
   <b>Judicial Transparency and Criminal Justice</b> <br>
   (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank">Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank">Anna Kyriazis</a>) <br>
   <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none">Manuscript <i class="fa fa-file"></i></a>
-<a class="button-1" role="button" data-toggle="collapse" data-target="#abs8" aria-controls="abs8" style="line-height:35px; text-decoration: none">Abstract +</a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" aria-controls="abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs1" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
 Elected officials at all levels of governance routinely make decisions that affect large populations, often without public scrutiny. This study examines the effect of increased transparency on judicial decision-making by leveraging a legislative reform that mandated public disclosure of court fee waivers. Using a regression discontinuity design, we find that the share of cases with court cost waivers increased by nearly 120%. The effects varied across political districts and re-election timing, indicating that electoral incentives play a significant role in judicial responsiveness. We also find that the effect size decreases with defendant income, suggesting potential targeting of waivers for those with lower ability to pay. Additionally, transparency-induced reductions in monetary obligations led to lower recidivism rates and improved timely compliance among defendants.
@@ -236,7 +236,7 @@ Elected officials at all levels of governance routinely make decisions that affe
 <p class="ex1" align="justify"> 
    <b> Jurisdiction size, political participation, and political competition </b> <br>
  <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft available upon request <i class="fa fa-file"></i></a> 
-<a class="button-1" role="button" data-toggle="collapse" data-target="#abs8" aria-controls="abs8" style="line-height:35px; text-decoration: none">Abstract +</a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs2" aria-controls="abs2" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs2" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
       Abstract here.
@@ -247,7 +247,7 @@ Elected officials at all levels of governance routinely make decisions that affe
 <p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> <br>
     (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a>, <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) <br>
  <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper (coming soon) <i class="fa fa-file"></i></a> 
-   <a class="button-1" role="button" data-toggle="collapse" data-target="#abs8" aria-controls="abs8" style="line-height:35px; text-decoration: none">Abstract +</a>
+   <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" aria-controls="abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs3" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
       Abstract here.
@@ -258,10 +258,10 @@ Elected officials at all levels of governance routinely make decisions that affe
 <p class="ex1" align="justify"> <b> The Affordable Care Act, Breastfeeding, and Women’s Labor Market Outcomes </b> <br>
     (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) <br>
  <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Working Paper (coming soon) <i class="fa fa-file"></i></a> 
-   <a class="button-1" role="button" data-toggle="collapse" data-target="#abs8" aria-controls="abs8" style="line-height:35px; text-decoration: none">Abstract +</a>
+   <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" aria-controls="abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs4" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
-      Abstract here.
+The first year of a child’s life is a critical period not only for the child’s development but also for the mother’s labor market prospects. Research shows that gender gaps over the life cycle, often referred to as the “motherhood penalty,” are closely associated with childbirth. In this paper, we analyze labor market trajectories of mothers and fathers around childbirth, utilizing restricted-access, full-count data from the American Community Survey (ACS) and Census Household Composition Key (CHCK). By combining ACS and CHCK, we can observe parents’ employment patterns both before and after childbirth. It allows us to examine month-by-month labor dynamics and track the onset and persistence of gendered labor outcomes associated with the motherhood penalty. Additionally, we examine whether policies help close some of these gaps? The Affordable Care Act (ACA) provided a number of provisions designed to support breastfeeding at workplace. We assess the impact of breastfeeding provisions under the Affordable Care Act (ACA) on mothers’ labor supply, including employment and timing of return to work, and examine how these effects vary across characteristics such as first-time motherhood, race and education.
     </p>
   </div>
 </p>
