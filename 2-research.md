@@ -207,7 +207,7 @@ table td {
 #### Job Market Paper
 <hr>
 <p class="ex1" align="justify"> <b> Judicial Transparency and Criminal Justice </b> <br> (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank"> Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank"> Anna Kyriazis </a>) <br>
-<a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none"> Manuscript <i class="fa fa-file"></i>
+<a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none"> Manuscript <i class="fa fa-file"></i> </a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs8" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs8" class="collapse">
     <div style="padding-left: 30px;">
