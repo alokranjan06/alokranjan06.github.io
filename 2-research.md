@@ -239,7 +239,7 @@ Elected officials at all levels of governance routinely make decisions that affe
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs2" aria-controls="abs2" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs2" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
-      Abstract here.
+      This paper examines the causal effect of jurisdiction size on political participation, political selection, and political competition. I leverage a quasi-natural experiment that exogenously determined the size of over 50,000 local government units based on population threshold in the Indian state of Uttar Pradesh. Using a regression discontinuity design, I find strong effects of the size of the electorate on voter turnout, with a 10% decrease in jurisdiction size resulting in a 0.6% higher turnout rate in local elections. The quality of contesting candidates and the characteristics of the winners do not vary systematically with jurisdiction size. Additionally, I provide a test of the rational choice model of voting by simulating millions of elections and show that voter turnout increases with an increase in pivotal probabilities.
     </p>
   </div>
 </p>
@@ -250,7 +250,7 @@ Elected officials at all levels of governance routinely make decisions that affe
    <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" aria-controls="abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs3" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
-      Abstract here.
+   Since 1970, housing’s relative price, share of expenditure, and “unaffordability” have all grown. We estimate housing demand using a novel compensated framework over space and an uncompensated framework over time. Our specifications pass tests imposed by rationality and household mobility. Housing demand is income and price inelastic, and appears to fall with household size. We provide a numerical non-homothetic constant elasticity of substitution utility function for improved quantitative modeling. An ideal cost-of-living index demonstrates that the poor have been disproportionately impacted by rising relative rents, which have greatly amplified increases in real income inequality. 
     </p>
   </div>
 </p>
