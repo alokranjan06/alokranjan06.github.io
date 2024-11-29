@@ -194,7 +194,7 @@ table td {
    }  
 
     p.ex2 {
-    max-width: 600px;
+    max-width:70%;
     font-size:13px;
     padding-left: 25px;
     padding-top: 0.5em;
@@ -216,7 +216,7 @@ table td {
    
 <br> 
 -->
-<h4 style="text-align:center; font-weight:bold;">Job Market Paper</h4>
+#### Job Market Paper
 <hr>
 <p class="ex1" align="justify">
   <b>Judicial Transparency and Criminal Justice</b> <br>
