@@ -235,6 +235,12 @@ Elected officials at all levels of governance routinely make decisions that affe
 <hr>
 <p class="ex1" align="justify"> <b> Jurisdiction size, political participation, and political competition </b> <br>
  <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft available upon request <i class="fa fa-file"></i></a> 
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs8" aria-controls="abs8" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <div id="abs8" class="collapse" style="padding-left: 30px;">
+    <p class="ex2" align="justify">
+      Abstract here.
+    </p>
+  </div>
 </p>
 
 <p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> <br>
