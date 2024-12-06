@@ -235,7 +235,7 @@ Elected officials at all levels of governance routinely make decisions that affe
 <hr>
 <p class="ex1" align="justify"> 
    <b> Jurisdiction size, political participation, and political competition </b> <br>
- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file-pdf-o"></i></a> 
+<!-- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file-pdf-o"></i></a> -->
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs2" aria-controls="abs2" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs2" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
@@ -246,7 +246,7 @@ Elected officials at all levels of governance routinely make decisions that affe
 
 <p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> <br>
     (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a>, <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) <br>
- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file-pdf-o"></i></a> 
+<!-- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file-pdf-o"></i></a> -->
    <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" aria-controls="abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs3" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
@@ -257,7 +257,7 @@ Elected officials at all levels of governance routinely make decisions that affe
  
 <p class="ex1" align="justify"> <b> The Affordable Care Act, Breastfeeding, and Women’s Labor Market Outcomes </b> <br>
     (with <a href="https://sites.google.com/site/markborgschulte/" target="_blank"> Mark Borgschulte</a> and <a href="https://www.rebeccathornton.net/" target="_blank"> Rebecca Thornton </a>) <br>
- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file-pdf-o"></i></a> 
+<!-- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file-pdf-o"></i></a> --> 
    <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" aria-controls="abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs4" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
