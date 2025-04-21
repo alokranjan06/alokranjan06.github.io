@@ -14,7 +14,8 @@ p.ex1 {
 }
     
    html * {
-       font-family: Cambria,Georgia,serif;
+      font-family: Monaco, Consolas, "Courier New", monospace;
+      /* font-family: Cambria,Georgia,serif; */
       /* font-family: "Times New Roman", Times, serif;*/
       }
    
