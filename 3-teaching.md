@@ -15,8 +15,8 @@ p.ex1 {
     
    html * {
      /* font-family: Monaco, Consolas, "Courier New", monospace; */
-       font-family: Georgia, Cambria, serif; 
-      /* font-family: "Times New Roman", Times, serif;*/
+     /*  font-family: Georgia, Cambria, serif; */
+       font-family: "Times New Roman", Times, serif; 
       }
    
    .button {
