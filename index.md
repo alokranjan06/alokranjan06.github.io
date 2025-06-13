@@ -36,13 +36,8 @@ I am a PhD Candidate in the <a target="_blank" rel="noopener noreferrer" href="h
  <br> 
 </p>
 
-<p style="font-size:16px"  align="justify" class="ex1">
-<b> I am on the 2024-2025 Job Market! </b> 
- <br> 
-</p>
-
 <br/>
 
-<p align="center" class="ex1"><font size="3"> <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/jmp.pdf"><i class="fa fa-file-pdf-o"></i> Job Market Paper </a> | <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/Alok_CV.pdf"><i class="fa fa-file"></i> Curriculum vitae</a> | <a href="mailto:alok2@illinois.edu"> <i class="fa fa-envelope"></i> alok2@illinois.edu</a>  </font></p>
+<p align="center" class="ex1"><font size="3">  <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/Alok_CV.pdf"><i class="fa fa-file"></i> Curriculum vitae</a> | <a href="mailto:alok2@illinois.edu"> <i class="fa fa-envelope"></i> alok2@illinois.edu</a>  </font></p>
 
 
