@@ -216,7 +216,8 @@ table td {
    
 <br> 
 -->
-#### Job Market Paper
+
+#### Working Papers
 <hr>
 <p class="ex1" align="justify">
   <b>Judicial Transparency and Criminal Justice</b> <br>
@@ -230,8 +231,6 @@ Elected officials at all levels of governance routinely make decisions that affe
   </div>
 </p>
 
-
-#### Working Papers
 <hr>
 <p class="ex1" align="justify"> 
    <b> Jurisdiction size, political participation, and political competition </b> <br>
