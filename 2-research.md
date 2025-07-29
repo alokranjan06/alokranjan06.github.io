@@ -13,7 +13,7 @@ permalink: /research/
 }
  
  html * {
-        font-family: Monaco, Cambria,Georgia,serif; 
+        font-family: Cambria,Georgia,serif; 
       }
    
    .iframe-container {
