@@ -8,7 +8,7 @@ layout: home
     }
  
  html * {
-        font-family: Monaco, Cambria,Georgia,serif; 
+        font-family:  Cambria,Georgia,serif; 
       }
  
  a:link, a:visited {
