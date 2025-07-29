@@ -216,17 +216,6 @@ Elected officials at all levels of governance routinely make decisions that affe
   </div>
 </p>
 
-<p class="ex1" align="justify"> 
-   <b> Jurisdiction size, political participation, and political competition </b> <br>
-<!-- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file-pdf-o"></i></a> -->
-<a class="button-1" role="button" data-toggle="collapse" data-target="#abs2" aria-controls="abs2" style="line-height:35px; text-decoration: none">Abstract +</a>
-  <div id="abs2" class="collapse" style="padding-left: 30px;">
-    <p class="ex2" align="justify">
-      This paper examines the causal effect of jurisdiction size on political participation, political selection, and political competition. I leverage a quasi-natural experiment that exogenously determined the size of over 50,000 local government units based on population threshold in the Indian state of Uttar Pradesh. Using a regression discontinuity design, I find strong effects of the size of the electorate on voter turnout, with a 10% decrease in jurisdiction size resulting in a 0.6% higher turnout rate in local elections. The quality of contesting candidates and the characteristics of the winners do not vary systematically with jurisdiction size. Additionally, I provide a test of the rational choice model of voting by simulating millions of elections and show that voter turnout increases with an increase in pivotal probabilities.
-    </p>
-  </div>
-</p>
-
 <p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> <br>
     (with <a href="https://davidalbouy.com/" target="_blank"> David Albouy</a>, <a href="https://sites.google.com/site/gabrielehrlich/home" target="_blank">Gabriel Ehrlich </a> and <a href="" target="_blank">Yingyi Liu </a>) <br>
 <!-- <a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none"> Draft <i class="fa fa-file-pdf-o"></i></a> -->
