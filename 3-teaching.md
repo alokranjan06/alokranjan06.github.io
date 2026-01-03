@@ -134,24 +134,24 @@ hr {
 
 #### Plaksha University
 <hr>
-<p class="ex1" align="justify"> <b> Urban Economics and Public Finance </b>:  Spring 2026 <br>
+<p class="ex1" align="justify"> <b> Urban Economics and Public Finance </b>: <em> Spring 2026 </em> <br>
 
 <!--   <p class="ex2" align="justify"> <em> Course description: </em> This course centers on the subject of state and local public finance, primarily viewed through the applied microeconomics approach. Its main objective is to foster comprehension of how sub-national governments play a role in providing public goods. Additionally, the course aims to explore the revenue and expenditure choices made by these governments within the context of fiscal federalism. Through this course, students will be introduced to various topics, including public choice, the demand and provision of government goods, and with special focus on the revenue structures employed by state and local governments. These structures encompass property, sales, income, and business taxation, and are analyzed for their efficiency and equity considerations. Both the theoretical framework of local public finance and the empirical evidence related to these theories will be covered in the course. </p> -->
   </p>
 
-<p class="ex1" align="justify"> <b> Corporate Finance </b>: Fall 2025 <br>
+<p class="ex1" align="justify"> <b> Corporate Finance </b>: <em> Fall 2025 </em>  <br>
 
 <!--   <p class="ex2" align="justify"> <em> Course description: </em> This course centers on the subject of state and local public finance, primarily viewed through the applied microeconomics approach. Its main objective is to foster comprehension of how sub-national governments play a role in providing public goods. Additionally, the course aims to explore the revenue and expenditure choices made by these governments within the context of fiscal federalism. Through this course, students will be introduced to various topics, including public choice, the demand and provision of government goods, and with special focus on the revenue structures employed by state and local governments. These structures encompass property, sales, income, and business taxation, and are analyzed for their efficiency and equity considerations. Both the theoretical framework of local public finance and the empirical evidence related to these theories will be covered in the course. </p> -->
   </p>
   
 #### University of Illinois
 <hr>
-<p class="ex1" align="justify"> <b>Local Public Finance (Econ 490) </b>: Fall 2021, Spring 2022 <br>
+<p class="ex1" align="justify"> <b>Local Public Finance (Econ 490) </b>: <em> Fall 2021, Spring 2022  </em><br>
 
 <!--   <p class="ex2" align="justify"> <em> Course description: </em> This course centers on the subject of state and local public finance, primarily viewed through the applied microeconomics approach. Its main objective is to foster comprehension of how sub-national governments play a role in providing public goods. Additionally, the course aims to explore the revenue and expenditure choices made by these governments within the context of fiscal federalism. Through this course, students will be introduced to various topics, including public choice, the demand and provision of government goods, and with special focus on the revenue structures employed by state and local governments. These structures encompass property, sales, income, and business taxation, and are analyzed for their efficiency and equity considerations. Both the theoretical framework of local public finance and the empirical evidence related to these theories will be covered in the course. </p> -->
   </p>
  
-<p class="ex1" align="justify"> <b>Economics of Labor Markets (Econ 440) </b>: Fall 2020 (Online) <br>
+<p class="ex1" align="justify"> <b>Economics of Labor Markets (Econ 440) </b>: <em> Fall 2020  </em> (Online) <br>
     
 <!--  <p class="ex2" align="justify"> <em> Course description: </em> This course is primarily aimed at advanced undergraduate students and serves as an introduction to the field of labor economics. The curriculum covers various topics, including models and evidence related to labor supply, demand, and market dynamics. Additionally, we will delve into areas such as education, immigration, discrimination, and unemployment. Throughout the course, we will explore how individuals make decisions about their work hours, how firms determine their labor force size, and how these factors interact to establish equilibrium in the labor market. Moreover, we will examine the decision-making processes of workers regarding their education levels and location choices, as well as the role of discrimination in labor markets. The course concludes by discussing labor market institutions and providing insights into the future of work. </p> -->
 </p>
@@ -161,20 +161,20 @@ hr {
 #### Teaching Assistant, University of Illinois
 <hr>
 
-<p class="ex1" align="justify"> <b>Economic Statistics II (Econ 203) </b> : <font style="font-size:14px">Spring 2019, Fall 2019, Spring 2020, Spring 2021 </font> <br> 
-    <em> (For Prof. Eric McDermott </em> and <em> Prof. Ramses Armendariaz) </em>  </p>
+<p class="ex1" align="justify"> <b>Economic Statistics II (Econ 203) </b> : <font style="font-size:14px"> <em> Spring 2019, Fall 2019, Spring 2020, Spring 2021 </em> </font> <br> 
+</p>
 
-<p class="ex1" align="justify"> <b>Macroeconomic Principles (Econ 103) </b>: <font style="font-size:14px">Fall 2018</font> <br> 
-    <em> (For Prof. Eric McDermott) </em> </p>
+<p class="ex1" align="justify"> <b> Macroeconomic Principles (Econ 103) </b>: <font style="font-size:14px"> <em> Fall 2018 </em> <font> <br> 
+</p>
 
 <br>
 
 
 #### Teaching Awards
 <hr>
-<p class="ex1" align="justify"> Teachers Rated as <em>Outstanding</em> by their students: <font style="font-size:14px">Fall 2019, Fall 2020, Spring 2022</font> </p>
+<p class="ex1" align="justify"> Teachers Rated as <em>Outstanding</em> by their students: <font style="font-size:14px"> <em> Fall 2019, Fall 2020, Spring 2022 </em> </font> </p>
 
-<p class="ex1" align="justify"> Teachers Rated as <em>Excellent</em> by their students: <font style="font-size:14px">Spring 2019, Spring 2021</font> </p>
+<p class="ex1" align="justify"> Teachers Rated as <em>Excellent</em> by their students: <font style="font-size:14px"> <em> Spring 2019, Spring 2021 </em> </font> </p>
 
 <br>
 
