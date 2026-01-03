@@ -143,7 +143,9 @@ hr {
 
 <!--   <p class="ex2" align="justify"> <em> Course description: </em> This course centers on the subject of state and local public finance, primarily viewed through the applied microeconomics approach. Its main objective is to foster comprehension of how sub-national governments play a role in providing public goods. Additionally, the course aims to explore the revenue and expenditure choices made by these governments within the context of fiscal federalism. Through this course, students will be introduced to various topics, including public choice, the demand and provision of government goods, and with special focus on the revenue structures employed by state and local governments. These structures encompass property, sales, income, and business taxation, and are analyzed for their efficiency and equity considerations. Both the theoretical framework of local public finance and the empirical evidence related to these theories will be covered in the course. </p> -->
   </p>
-  
+
+<br> 
+
 #### University of Illinois
 <hr>
 <p class="ex1" align="justify"> <b>Local Public Finance (Econ 490) </b>: <em> Fall 2021, Spring 2022  </em><br>
