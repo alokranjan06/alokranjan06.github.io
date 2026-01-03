@@ -164,7 +164,7 @@ hr {
 <p class="ex1" align="justify"> <b>Economic Statistics II (Econ 203) </b> : <font style="font-size:14px"> <em> Spring 2019, Fall 2019, Spring 2020, Spring 2021 </em> </font> <br> 
 </p>
 
-<p class="ex1" align="justify"> <b> Macroeconomic Principles (Econ 103) </b>: <font style="font-size:14px"> <em> Fall 2018 </em> <font> <br> 
+<p class="ex1" align="justify"> <b> Macroeconomic Principles (Econ 103) </b>: <font style="font-size:14px"> <em> Fall 2018 </em> </font> <br> 
 </p>
 
 <br>
