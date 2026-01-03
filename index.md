@@ -32,7 +32,7 @@ layout: home
 
 <p style="font-size:16px"  align="justify" class="ex1">
 
-I am an Assistant Professor of Economics, Business and Data Science at <a target="_blank" rel="noopener noreferrer" href="https://plaksha.edu.in"> Plaksha University </a>. I am an applied microeconomist with a primary interest in public and urban economics and a secondary interest in labor economics. Methodologically, I employ state-of-the-art causal inference and structural estimation techniques in my research. I received my PhD in Economics from the at the <a target="_blank" rel="noopener noreferrer" href="https://illinois.edu/"> University of Illinois Urbana-Champaign </a>, and my BS and MS in Economics from the <a target="_blank" rel="noopener noreferrer" href="https://www.iitk.ac.in/"> Indian Institute of Technology Kanpur</a> .
+I am an Assistant Professor of Economics, Business and Data Science at <a target="_blank" rel="noopener noreferrer" href="https://plaksha.edu.in"> Plaksha University</a>. I am an applied microeconomist with a primary interest in public and urban economics and a secondary interest in labor economics. Methodologically, I employ state-of-the-art causal inference and structural estimation techniques in my research. I received my PhD in Economics from the at the <a target="_blank" rel="noopener noreferrer" href="https://illinois.edu/"> University of Illinois Urbana-Champaign</a>, and my BS and MS in Economics from the <a target="_blank" rel="noopener noreferrer" href="https://www.iitk.ac.in/"> Indian Institute of Technology Kanpur</a>.
 
  <br> 
  <br> 
