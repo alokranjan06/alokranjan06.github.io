@@ -38,6 +38,6 @@ I am a PhD Candidate in the <a target="_blank" rel="noopener noreferrer" href="h
 
 <br/>
 
-<p align="center" class="ex1"><font size="3">  <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/Alok_CV.pdf"><i class="fa fa-file"></i> Curriculum vitae</a> | <a href="mailto:alok2@illinois.edu"> <i class="fa fa-envelope"></i> alok2@illinois.edu</a>  </font></p>
+<p align="center" class="ex1"><font size="3">  <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/Alok_CV.pdf"><i class="fa fa-file"></i> Curriculum vitae</a> | <a href="mailto:alok.ranjan@plaksha.edu.in"> <i class="fa fa-envelope"></i> Email</a>  </font></p>
 
 
