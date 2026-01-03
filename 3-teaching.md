@@ -127,8 +127,10 @@ hr {
  
 </style>
 ### Teaching Experience
-
-<p class="ex1" align="justify"> In my role as an instructor, I have had the privilege of designing and teaching two specialized courses, Economics of Labor Markets and Local Public Finance, designed for senior undergraduate students pursuing degrees in Economics and Business. My teaching philosophy is anchored in three key principles:: 1) cultivating analytical and critical thinking skills, 2) creating a student-centered and inclusive learning environment, and 3) responsiveness to feedback and continuous improvement. I take pride in my adaptability, having successfully conducted both in-person and online teaching, ensuring a seamless educational experience for students in diverse settings.  <br>
+<!--
+In my role as an instructor, I have had the privilege of designing and teaching two specialized courses, Economics of Labor Markets and Local Public Finance, designed for senior undergraduate students pursuing degrees in Economics and Business.
+-->
+<p class="ex1" align="justify">  My teaching philosophy is anchored in three key principles:: 1) cultivating analytical and critical thinking skills, 2) creating a student-centered and inclusive learning environment, and 3) responsiveness to feedback and continuous improvement. I take pride in my adaptability, having successfully conducted both in-person and online teaching, ensuring a seamless educational experience for students in diverse settings.  <br>
 </p>
  <br> 
 
