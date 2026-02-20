@@ -40,3 +40,32 @@ $content-width:    1000px;
         flex-basis: 100%; /* Set the width of each column to 100% for smaller screens */
     }
 }
+
+/* Dark mode variables */
+body.dark-mode {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+}
+
+body.dark-mode a:link,
+body.dark-mode a:visited {
+  background-color: transparent;
+  color: #7eaaff;
+}
+
+body.dark-mode .button-1 {
+  background-color: #2a2a2a;
+  color: #7eaaff;
+  box-shadow: 0 3px 9px 0 rgba(0,0,0,0.4);
+}
+
+body.dark-mode .button-1:hover {
+  background-color: #7eaaff;
+  color: #1a1a1a;
+}
+
+/* If you have a navbar/header, target it too */
+body.dark-mode header,
+body.dark-mode nav {
+  background-color: #111111;
+}
