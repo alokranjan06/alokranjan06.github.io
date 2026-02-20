@@ -209,11 +209,19 @@ table td {
   (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank">Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank">Anna Kyriazis</a>) <br>
   <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none">Draft <i class="fa fa-file-pdf-o"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" aria-controls="abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#pres1" aria-controls="pres1" style="line-height:35px; text-decoration: none">Presentations +</a>
   <div id="abs1" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
 Elected officials at all levels of governance routinely make decisions that affect large populations, often without public scrutiny. In the judiciary, elected judges exercise significant discretion in imposing monetary sanctions, yet their decisions are typically opaque to the public. This paper examines how increasing the transparency of judicial decisions affects the imposition of court fees and fines. Exploiting a policy change in North Carolina that made judges’ court cost waiver decisions publicly accessible, we employ a regression discontinuity design to estimate the causal effect of transparency on judicial behavior. We find that after the policy change, judges granted waivers at twice the pre-reform rate. Examining the broader consequences of transparency-induced changes in waiver practices, we find that reductions in monetary obligations led to lower recidivism rates and improved timely compliance among defendants. Despite increased waivers, I find no decline in collected revenue, consistent with judges primarily granting waivers to defendants who were least likely to comply with monetary obligations. These findings highlight how electoral accountability shapes judicial discretion and the financial and behavioral consequences of transparency in the criminal justice system. 
     </p>
   </div>
+
+  <div id="pres1" class="collapse" style="padding-left: 30px;">
+    <p class="ex2" align="justify">
+      Plaksha University (2025), Charles University (2025), Southern Economic Association Conference (2024)
+    </p>
+  </div>
+  
 </p>
 
 <p class="ex1" align="justify"> <b> Housing Demand, Cost-of-Living Inequality, and the Affordability Crisis </b> <br>
@@ -238,23 +246,6 @@ The first year of a child’s life is a critical period not only for the child�
   </div>
 </p>
 
-<p class="ex1" align="justify">
-  <b>Judicial Transparency and Criminal Justice</b> <br>
-  (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank">Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank">Anna Kyriazis</a>) <br>
-  <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none">Draft <i class="fa fa-file-pdf-o"></i></a>
-  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" aria-controls="abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
-  <a class="button-1" role="button" data-toggle="collapse" data-target="#pres1" aria-controls="pres1" style="line-height:35px; text-decoration: none">Presentations +</a>
-  <div id="abs1" class="collapse" style="padding-left: 30px;">
-    <p class="ex2" align="justify">
-      Elected officials at all levels... [your abstract text]
-    </p>
-  </div>
-  <div id="pres1" class="collapse" style="padding-left: 30px;">
-    <p class="ex2" align="justify">
-      Conference A (2024), Conference B (2023), Workshop C (2023)
-    </p>
-  </div>
-</p>
    
  <br>   
 
