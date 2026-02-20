@@ -238,7 +238,23 @@ The first year of a childâ€™s life is a critical period not only for the childâ€
   </div>
 </p>
 
-
+<p class="ex1" align="justify">
+  <b>Judicial Transparency and Criminal Justice</b> <br>
+  (with <a href="https://sites.google.com/view/felipe-diaz-k" target="_blank">Felipe Diaz Klassen</a> and <a href="https://www.annakyriazis.com/" target="_blank">Anna Kyriazis</a>) <br>
+  <a class="button-1" role="button" href="/files/jmp.pdf" target="_blank" style="line-height:35px; text-decoration: none">Draft <i class="fa fa-file-pdf-o"></i></a>
+  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" aria-controls="abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <a class="button-1" role="button" data-toggle="collapse" data-target="#pres1" aria-controls="pres1" style="line-height:35px; text-decoration: none">Presentations +</a>
+  <div id="abs1" class="collapse" style="padding-left: 30px;">
+    <p class="ex2" align="justify">
+      Elected officials at all levels... [your abstract text]
+    </p>
+  </div>
+  <div id="pres1" class="collapse" style="padding-left: 30px;">
+    <p class="ex2" align="justify">
+      Conference A (2024), Conference B (2023), Workshop C (2023)
+    </p>
+  </div>
+</p>
    
  <br>   
 
