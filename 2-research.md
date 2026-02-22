@@ -218,7 +218,7 @@ Elected officials at all levels of governance routinely make decisions that affe
 
   <div id="pres1" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
-      Plaksha University (2025), Charles University (2025), Southern Economic Association Conference (2024), Virtual Crime Economics (ViCE) seminar (2024), WEAI Conference (2024), Computational Justice Lab Seminar (2024)
+     Charles University (2025), Plaksha University (2025), Southern Economic Association Conference (2024), Virtual Crime Economics (ViCE) seminar (2024), WEAI Conference (2024), Computational Justice Lab Seminar (2024)
     </p>
   </div>
   
