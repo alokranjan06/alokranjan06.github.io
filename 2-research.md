@@ -230,7 +230,7 @@ Elected officials at all levels of governance routinely make decisions that affe
    <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" aria-controls="abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs3" class="collapse" style="padding-left: 30px;">
     <p class="ex2" align="justify">
-   Since 1970, housing’s relative price, share of expenditure, and “unaffordability” have all grown. We estimate housing demand using a novel compensated framework over space and an uncompensated framework over time. Our specifications pass tests imposed by rationality and household mobility. Housing demand is income and price inelastic, and appears to fall with household size. We provide a numerical non-homothetic constant elasticity of substitution utility function for improved quantitative modeling. An ideal cost-of-living index demonstrates that the poor have been disproportionately impacted by rising relative rents, which have greatly amplified increases in real income inequality. 
+   Since 1970, housing's relative price, share of expenditure, and ``unaffordability'' have all grown. We estimate housing demand using a novel compensated framework over space. Our specifications pass tests imposed by rationality and household mobility. Housing demand is income and price inelastic. We estimate a numerical non-homothetic constant elasticity of substitution utility function that is consistent with these results.  An ideal cost-of-living index demonstrates that the poor have been disproportionately impacted by rising relative rents, which have greatly amplified increases in real income inequality. 
     </p>
   </div>
 </p>
