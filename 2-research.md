@@ -254,7 +254,7 @@ The first year of a childâ€™s life is a critical period not only for the childâ€
 
 <p class="ex1" align="justify"> <b>Municipal Annexations: Determinants and Consequences  </b> </p>
  
- <p class="ex1" align="justify"> <b> Immigration Enforcement and Rental Markets </b> <br> (with <a href="https://wilfriedadohinzin.com/index.html" target="_blank"> Wilfried Adohinzin </a> </a>) </p>
+ <p class="ex1" align="justify"> <b> Immigration Enforcement and Rental Markets </b> <br> (with <a href="https://wilfriedadohinzin.com/index.html" target="_blank"> Wilfried Adohinzin </a>) </p>
 
  <p class="ex1" align="justify"> <b> "The Heat of the Moment": Temperature's Role in Shaping Classroom Dynamics </b> <br> (with <a href="https://wilfriedadohinzin.com/index.html" target="_blank"> Wilfried Adohinzin</a>, <a href="https://economics.illinois.edu/profile/aarvind3" target="_blank"> Aditi Arvind</a>, and <a href="https://sites.google.com/view/mahounanyedomiffi/bio?authuser=0" target="_blank"> Mahounan Yedomiffi  </a>) </p>
 
